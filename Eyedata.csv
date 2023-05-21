@@ -1,0 +1,506 @@
+﻿sn,namefirst,age,sex,ethni,Weight_patients,Height_patietns,Smoking_patients,ocular_cancers_patients,va_re,va_le,acdepth_re,acdepth_le,iop_re,iop_le,diag,outcome_inst,score_inst
+12,purna krishna,72,1,3,50,144,1,1,4,4,normal,normal,20,17,1,1,6.5
+18,jagat bdr,68,1,2,51,145,1,1,7,7,normal,normal,18,16,1,2,8
+21,rajendra,60,1,1,49,140,1,1,3,3,normal,normal,19,21,1,1,6
+24,gauri krishna,86,1,3,50,143,1,1,7,4,normal,normal,16,18,1,2,8.2
+25,govinda hari,76,1,3,58,165,1,1,2,2,normal,normal,21,20,1,1,5.2
+27,raja ram,65,1,3,51,145,1,1,3,3,normal,normal,17,15,1,2,9.8
+28,surya prasad,64,1,2,54,155,2,1,2,2,normal,normal,16,17,1,1,4.9
+29,kaji bahadur,83,1,3,55,156,1,2,7,7,normal,normal,11,17,1,1,4.43
+30,ram bhakta,70,1,3,58,167,2,1,2,2,normal,normal,14,16,1,1,4.8
+33,prithivi man,76,1,4,60,170,2,2,5,5,normal,normal,17,14,1,1,5.4
+36,mohan krishna,64,1,4,47,134,2,2,2,2,normal,normal,17,21,1,1,4.4
+39,sun hari,59,1,4,55,156,2,1,5,2,normal,normal,17,20,1,1,6.16
+40,krishna,67,1,3,58,166,1,1,2,4,normal,normal,14,16,1,1,5.2
+50,krishna kumar,68,1,3,50,144,1,1,4,7,normal,normal,12,12,1,1,4.5
+51,ratna bahadur,80,1,2,47,135,1,1,4,7,normal,normal,12,16,1,1,4.97
+52,krishna kumar,72,1,3,63,180,1,1,3,3,normal,normal,14,13,1,2,10.9
+53,ram chandra,70,1,3,47,133,1,1,1,3,normal,normal,12,12,1,2,7
+54,khadga ratna,58,1,3,46,132,2,2,7,4,normal,normal,14,15,1,2,10
+63,jeet govinda,60,1,3,46,131,2,1,4,4,normal,normal,19,18,1,2,10
+66,bhai kaji,60,1,4,51,145,2,1,1,1,normal,normal,15,12,1,1,4.5
+68,bhai,74,1,3,50,144,2,1,6,5,normal,normal,16,18,1,1,5.1
+70,bhai,74,1,3,51,146,2,2,6,5,normal,normal,16,18,1,2,9.1
+73,tez bahadur,71,1,3,51,147,2,2,5,4,normal,normal,16,15,1,1,3.5
+77,govinda,52,1,2,52,148,1,1,2,1,normal,normal,15,13,1,1,4.5
+78,mahendra,56,1,3,52,149,2,1,4,4,normal,normal,17,12,1,2,7.14
+79,jivan bahadur,60,1,3,53,150,1,1,6,3,normal,normal,18,19,1,2,8.1
+81,ram bhakta,59,1,3,17,156,1,1,2,2,normal,normal,10,10,1,2,8.3
+82,dina nath,65,1,1,16,158,1,1,4,4,normal,normal,12,17,1,1,6
+85,min bahadur,50,1,4,21,150,1,1,1,1,normal,normal,17,15,1,1,6.13
+88,sambhu,51,1,1,18,145,1,2,2,2,normal,normal,12,12,1,1,6.8
+89,jivan bahadur,63,1,1,20,158,1,1,4,4,normal,normal,15,17,1,1,3.8
+90,dirgha,56,1,4,15,150,1,1,7,6,normal,normal,14,13,1,1,6.3
+95,dilli bahadur,75,1,4,17,143,1,1,6,5,normal,normal,15,17,1,1,6.3
+97,ram bahadur,54,1,2,17,142,1,2,1,1,normal,normal,12,14,1,2,7.2
+98,basanta bahadur,52,1,1,16,151,1,1,2,2,normal,normal,19,19,1,1,5.4
+101,arjun,56,1,2,14,153,1,1,7,3,normal,normal,17,12,1,2,7.6
+102,kul bahadur,76,1,2,21,164,1,1,6,4,normal,normal,15,19,1,2,7.2
+112,tsering,55,1,4,20,161,2,2,5,4,normal,normal,13,13,1,1,5.5
+117,lama,61,1,4,16,160,2,2,3,3,normal,normal,15,17,1,1,4.5
+118,dejing,65,1,4,12,162,2,2,3,4,normal,normal,17,18,1,1,3.8
+119,tek bahadur,55,1,2,16,178,2,1,1,1,normal,normal,16,13,1,1,5.3
+124,jeet govinda,60,1,3,13,176,2,2,4,4,normal,normal,19,18,1,2,8.69
+129,krishna,59,1,3,12,145,2,1,7,6,normal,normal,18,15,1,2,7.03
+130,chandra man,67,1,4,15,166,1,2,6,6,normal,normal,12,11,1,1,5
+135,rupak,55,1,3,18,156,1,1,3,3,normal,normal,14,15,1,1,6.3
+159,bhai,74,1,3,12,146,1,2,6,5,normal,normal,16,18,1,1,6.3
+162,tika dutta,90,1,1,18,167,1,1,6,7,normal,normal,13,11,1,1,6
+164,rajendra,60,1,1,18,134,1,1,3,3,normal,normal,19,24,2,2,10.2
+165,sering,52,1,4,15,157,1,1,4,4,normal,normal,13,13,1,2,10.9
+168,tsering,53,1,4,13,180,1,1,4,6,normal,normal,12,11,1,1,5
+172,ram bahadur,54,1,2,12,143,1,1,1,1,normal,normal,16,13,1,1,5.4
+177,jeet,50,1,3,19,138,1,2,4,4,normal,normal,19,18,1,2,6.5
+182,sering,62,1,4,10,167,1,2,6,6,normal,normal,16,11,1,1,6.7
+249,tulsi bahadur,70,1,3,17,177,1,1,9,6,normal,normal,11,10,1,1,4
+256,singha bahadur,84,1,3,15,166,1,1,5,5,normal,normal,18,20,1,1,6.7
+261,babu kaji,60,1,3,12,155,1,2,1,1,normal,normal,17,14,1,1,4.3
+262,surya man,60,1,3,17,144,1,2,2,3,normal,normal,12,13,1,2,10
+267,bekunda,63,1,3,13,189,1,1,1,1,normal,normal,20,19,1,2,9
+268,laxmi lal,80,1,4,17,167,1,1,5,5,normal,normal,15,11,1,2,5.5
+271,bal krishna,65,1,3,14,145,2,2,2,1,normal,normal,16,18,1,2,5
+273,biki bahadur,68,1,3,19,167,2,1,7,3,normal,normal,12,13,1,1,5.61
+276,shiv kumar,67,1,3,12,145,2,2,4,4,normal,normal,13,13,1,1,3.8
+278,lal kaji,80,1,3,19,167,2,2,3,3,normal,normal,13,12,1,1,8.5
+280,gaj ratna,67,1,3,13,144,2,2,7,5,normal,normal,11,10,1,1,3.8
+282,ram chandra,70,1,3,17,134,2,2,3,2,normal,normal,13,13,1,1,4.3
+295,bikram bahadur,77,1,3,18,145,1,2,2,2,normal,normal,17,15,1,2,7.7
+299,hari krishna,68,1,3,13,156,2,2,1,1,normal,normal,20,20,1,1,4
+301,heera lal,82,1,3,18,156,1,2,6,6,normal,normal,11,11,1,1,4
+303,gyan lal,77,1,3,15,189,1,2,1,5,normal,normal,14,12,1,1,6.4
+307,ganesh bahadur,77,1,3,11,145,1,1,1,1,normal,normal,13,15,1,1,4.9
+308,shiv,50,1,4,15,167,1,1,5,5,normal,normal,16,17,1,1,7.5
+316,kaji bahadur,80,1,3,18,145,1,2,3,5,normal,others,13,17,1,1,3.8
+317,tez,75,1,3,11,134,1,1,3,2,normal,normal,17,18,1,1,5.8
+319,moti kaji,58,1,3,24,178,1,2,1,2,normal,normal,16,18,1,1,4
+326,padam raj,50,1,3,13,134,1,1,1,1,normal,normal,18,17,1,1,5.9
+329,laxmi lal,75,1,4,11,130,1,2,7,7,normal,normal,20,18,1,2,9
+343,hari,61,1,3,13,155,1,1,1,1,normal,normal,14,15,1,2,8.5
+346,satya narayan,59,1,3,18,134,1,2,3,3,normal,normal,17,15,1,1,6
+347,laxmi narayan,70,1,3,11,129,1,2,7,1,normal,normal,10,13,1,1,5.16
+348,narayan,56,1,3,10,128,2,2,1,1,normal,normal,15,13,1,2,9.4
+350,kul das,66,1,3,20,130,2,2,3,3,normal,normal,14,15,1,2,7.8
+352,laxmi narayan,68,1,3,14,125,2,2,3,3,normal,normal,12,12,1,1,6.1
+354,bal krishna,57,1,3,13,135,2,1,1,3,normal,normal,16,14,1,1,6.5
+355,prem bahadur,60,1,3,19,126,2,2,1,2,normal,normal,15,13,1,1,5.9
+356,ata bahadur,50,1,3,11,122,2,1,2,2,normal,normal,19,17,1,1,5.4
+357,rudra prasad,53,1,1,18,156,1,2,3,3,normal,normal,11,13,1,2,8.1
+358,hari bhakta,71,1,3,13,134,1,2,4,4,normal,normal,16,16,1,2,8
+359,kanchha,71,1,3,13,123,1,2,2,2,normal,normal,13,12,1,2,8.4
+363,mashinu,60,1,3,12,135,1,1,2,2,normal,normal,14,17,1,2,8.3
+364,tulashi keshar,52,1,3,10,178,1,2,3,3,normal,normal,17,14,1,2,10.7
+365,tej laxmi,52,1,3,13,189,2,2,2,2,normal,normal,11,12,1,2,7.6
+369,keshari,56,1,3,15,123,2,2,2,2,normal,normal,14,16,1,1,5.5
+379,ram chandra,59,1,3,20,145,2,2,3,3,normal,normal,14,16,1,1,5.8
+385,manish,60,1,3,11,122,2,2,3,1,normal,normal,13,15,1,1,5.5
+391,karma bahadur,62,1,4,12,123,1,2,4,4,normal,normal,12,17,1,2,10
+392,govinda,63,1,2,15,120,1,2,3,3,normal,normal,21,20,1,2,10.7
+501,sita ram,54,1,1,17,134,1,2,3,2,normal,normal,10,12,1,2,8.1
+504,shiva bhakta,51,1,3,17,156,1,2,2,2,normal,normal,16,16,1,1,6.2
+3,gorakh bahadur,71,1,4,18,156,1,2,2,8,others,others,14,12,3,2,7.1
+5,krishna kumar,58,1,2,18,155,1,2,2,6,normal,normal,16,16,3,2,7.2
+9,hari bahadur,76,1,3,15,120,1,2,3,8,normal,normal,12,10,3,1,6.5
+11,masinu,76,1,3,17,134,1,2,7,7,normal,normal,14,16,3,2,8
+16,tulsi bahadur,63,1,3,17,156,1,2,3,4,normal,normal,22,20,2,1,6
+22,Krishna prasad,86,1,4,18,156,1,2,7,7,normal,normal,13,14,3,2,8.2
+34,beni bahadur,67,1,3,18,155,1,2,2,9,normal,normal,14,13,3,1,5.2
+57,dharma hari,71,1,3,15,120,1,2,6,6,normal,normal,19,18,3,2,9.8
+141,karma,60,1,4,17,134,1,2,6,6,normal,normal,18,16,1,1,4.9
+147,gelok,62,1,4,17,156,1,2,4,3,normal,normal,18,17,2,1,4.43
+151,sonam,85,1,4,18,156,1,2,6,9,normal,normal,17,14,3,1,4.8
+152,kelsang,50,1,4,18,155,1,2,4,4,normal,normal,14,18,3,1,5.4
+155,sudai,75,1,4,18,156,1,2,7,7,normal,normal,16,16,3,1,4.4
+157,krishna prasad,86,1,4,18,155,1,2,7,7,normal,normal,13,14,3,1,6.16
+161,chito,87,1,4,15,120,1,2,8,3,normal,normal,17,20,1,1,5.2
+270,sujo krishna,91,1,3,17,134,1,2,7,7,normal,normal,14,15,3,1,4.5
+351,krishna maya,70,1,3,17,156,1,2,7,6,normal,normal,12,14,3,1,4.97
+474,laxmi bahadur,63,1,3,18,156,1,2,9,7,normal,normal,32,19,3,2,10.9
+476,dilli bdr,64,1,2,18,155,1,2,7,4,normal,normal,40,14,2,2,7
+48,dil bhadur,66,1,3,15,120,1,2,9,3,normal,normal,40,21,1,2,10
+115,tsering,53,1,4,17,134,1,2,2,6,others,normal,40,11,1,2,10
+149,nar bahadur,78,1,4,50,144,1,1,7,7,normal,normal,16,17,3,1,4.5
+154,chandra bahadur,50,1,4,51,145,1,1,9,7,others,others,16,45,3,1,5.1
+190,sang lama,56,1,4,49,140,1,1,1,1,normal,normal,16,10,1,2,9.1
+193,dil bahadur,75,1,4,50,143,1,1,3,3,normal,normal,15,18,1,1,3.5
+195,karna bahadur,50,1,2,58,165,1,1,1,1,normal,normal,12,15,1,1,4.5
+204,bhawani,52,1,1,51,145,1,1,1,1,normal,normal,12,13,1,2,7.14
+206,praladh,52,1,1,54,155,2,1,2,2,normal,normal,11,11,1,2,8.1
+212,baburam,56,1,1,55,156,1,2,1,1,normal,normal,13,11,1,2,8.3
+215,bhim bahadur,50,1,2,58,167,2,1,1,1,normal,normal,20,19,1,1,6
+220,ganesh man,75,1,3,60,170,2,2,4,4,normal,normal,19,20,1,1,6.13
+225,suraj,56,1,4,47,134,2,2,1,1,normal,normal,10,18,1,1,6.8
+226,min bahadur,52,1,2,55,156,2,1,6,9,normal,normal,20,44,3,1,3.8
+228,man bahadur,55,1,3,58,166,1,1,2,2,normal,normal,12,12,1,1,6.3
+229,sundar,59,1,2,50,144,1,1,5,4,normal,normal,19,11,1,1,6.3
+230,bhushan,54,1,1,47,135,1,1,2,2,normal,normal,11,10,1,2,7.2
+231,bhim bahadur,52,1,1,63,180,1,1,1,1,normal,normal,12,12,1,1,5.4
+233,kailash,59,1,3,47,133,1,1,3,2,normal,normal,13,14,1,2,7.6
+236,ramesh bahadur,65,1,3,46,132,2,2,3,6,normal,normal,10,12,1,2,7.2
+238,chandan,51,1,1,46,131,2,1,2,2,normal,normal,12,12,1,1,5.5
+242,hari prasad,50,1,1,51,145,2,1,1,1,normal,normal,12,10,1,1,4.5
+245,mahesh,53,1,3,50,144,2,1,2,4,normal,normal,15,19,1,1,3.8
+247,lungu,62,1,4,51,146,2,2,9,9,normal,normal,21,22,3,1,5.3
+330,budhha ratna,62,1,3,51,147,2,2,4,9,normal,normal,20,20,3,2,8.69
+394,furba,76,1,4,52,148,1,1,7,7,normal,normal,20,12,1,2,7.03
+395,jeet bahadur,61,1,4,52,149,2,1,6,6,normal,normal,15,15,1,1,5
+398,purna bahadur,59,1,4,53,150,1,1,1,1,normal,normal,20,16,1,1,6.3
+399,kal bahadur,84,1,2,17,156,1,1,6,5,normal,normal,17,17,1,1,6.3
+403,harka bahadur,55,1,4,16,158,1,1,1,1,normal,normal,16,20,1,1,6
+404,phupadwaj,75,1,2,21,150,1,1,7,7,normal,normal,16,16,1,2,10.2
+405,narayan hari,50,1,1,18,145,1,2,2,1,normal,normal,20,14,1,2,10.9
+406,bal kumar,55,1,1,20,158,1,1,1,1,normal,normal,10,11,1,1,5
+407,durga bahadur,72,1,3,15,150,1,1,4,4,normal,normal,19,20,1,1,5.4
+408,bal bahadur,70,1,2,17,143,1,1,4,4,normal,normal,13,21,1,2,6.5
+409,lakpa,66,1,4,17,142,1,2,3,3,normal,normal,19,17,1,1,6.7
+410,dhan bahadur,60,1,1,16,151,1,1,6,4,normal,normal,12,12,1,1,4
+411,ramesh,50,1,3,14,153,1,1,4,8,normal,normal,16,16,1,1,6.7
+412,parshuram,66,1,4,21,164,1,1,7,7,normal,normal,16,11,1,1,4.3
+413,lachhuman,60,1,4,20,161,2,2,7,4,normal,normal,9,11,1,2,10
+420,dhundi bahadur,73,1,2,16,160,2,2,7,7,normal,normal,15,17,1,2,9
+421,themnuri,82,1,4,12,162,2,2,4,8,normal,normal,13,13,1,2,5.5
+423,bhola nath,75,1,1,16,178,2,1,4,4,normal,normal,20,14,1,2,5
+425,khadga bahadur,72,1,2,13,176,2,2,3,4,normal,normal,13,15,1,1,5.61
+426,ganesh bahadur,80,1,3,12,145,2,1,7,7,normal,normal,12,18,1,1,3.8
+427,nek prasad,52,1,1,15,166,1,2,5,5,normal,normal,13,18,1,1,8.5
+429,tulshi,54,1,2,18,156,1,1,5,6,normal,normal,12,14,1,1,3.8
+431,dil bahadur,65,1,4,12,146,1,2,1,1,normal,normal,13,13,1,1,4.3
+433,dilli,66,1,4,18,167,1,1,4,4,normal,normal,15,16,1,2,7.7
+434,bishnu harka,72,1,4,18,134,1,1,4,4,normal,normal,14,14,1,1,4
+435,samay,77,1,4,15,157,1,1,6,4,normal,normal,12,12,1,1,4
+436,bhakta lal,75,1,2,13,180,1,1,8,8,normal,normal,13,13,1,1,6.4
+437,dhan bahadur,70,1,1,12,143,1,1,8,7,normal,normal,11,10,1,1,4.9
+443,indra bahadur,73,1,4,19,138,1,2,8,6,others,normal,40,20,1,1,7.5
+444,tika ram,73,1,3,10,167,1,2,7,7,normal,normal,20,16,1,1,3.8
+445,gopal,66,1,2,17,177,1,1,3,3,normal,normal,20,14,1,1,5.8
+450,ran bahadur,72,1,4,15,166,1,1,3,7,normal,normal,13,13,1,1,4
+454,mangal singh,75,1,2,12,155,1,2,7,7,normal,normal,16,17,1,1,5.9
+455,bir bahadur,77,1,4,17,144,1,2,7,7,normal,normal,16,17,1,2,9
+456,ram bahadur,66,1,4,13,189,1,1,8,7,others,normal,10,16,1,2,8.5
+457,nar bahadur,79,1,4,17,167,1,1,5,5,normal,normal,16,17,1,1,6
+458,santa bahadur,79,1,2,14,145,2,2,5,5,normal,normal,16,17,1,1,5.16
+461,nain kumar,58,1,2,19,167,2,1,3,1,normal,normal,17,16,1,2,9.4
+462,sarsing,85,1,2,12,145,2,2,7,7,normal,normal,16,13,1,2,7.8
+463,bhim bahadur,76,1,4,19,167,2,2,7,9,normal,normal,17,18,3,1,6.1
+465,bhuvan prasad,64,1,1,13,144,2,2,3,1,normal,normal,18,15,1,1,6.5
+466,yadav kumar,66,1,1,17,134,2,2,6,6,normal,normal,16,18,1,1,5.9
+467,bhai bahadur,75,1,3,18,145,1,2,6,8,normal,normal,17,19,1,1,5.4
+468,bal bahadur,67,1,4,13,156,2,2,4,6,normal,normal,15,17,1,2,8.1
+469,dhanraj,54,1,2,18,156,1,2,2,2,normal,normal,21,21,1,2,8
+471,budhhi,50,1,4,15,189,1,2,3,7,normal,others,22,57,3,2,8.4
+472,durga bahadur,66,1,4,11,145,1,1,6,7,normal,normal,16,12,1,2,8.3
+475,padma lal,78,1,1,15,167,1,1,9,9,normal,normal,34,30,3,2,10.7
+477,nima,75,1,4,18,145,1,2,7,7,normal,normal,21,15,1,2,7.6
+481,padam bahadur,60,1,4,11,134,1,1,4,4,normal,normal,21,21,1,1,5.5
+483,druba prasad,55,1,1,24,178,1,2,1,1,normal,normal,13,19,1,1,5.8
+485,harka man,70,1,1,13,134,1,1,4,4,normal,normal,18,18,1,1,5.5
+486,ardha ram,70,1,1,11,130,1,2,6,6,normal,normal,18,19,1,2,10
+487,som nath,55,1,1,13,155,1,1,1,1,normal,normal,11,11,1,2,10.7
+488,heera kaji,58,1,3,18,134,1,2,2,2,normal,normal,17,18,1,2,8.1
+490,harka man,64,1,4,11,129,1,2,4,4,normal,normal,19,19,1,1,6.2
+491,hasta man,51,1,2,10,128,2,2,3,3,normal,normal,16,19,1,2,7.1
+493,khumbu,50,1,4,20,130,2,2,1,1,normal,normal,12,10,1,2,7.2
+496,shambhu nath,50,1,1,14,125,2,2,1,1,normal,normal,19,16,1,1,6.5
+497,jilla,59,1,4,13,135,2,1,5,6,normal,normal,10,14,1,2,8
+499,bhabani sankar,58,1,1,19,126,2,2,3,3,normal,normal,12,18,1,1,6
+6,hari maya,70,2,3,11,122,2,1,3,3,normal,normal,15,13,1,2,8.2
+13,tez kumari,65,2,3,18,156,1,2,6,6,normal,normal,16,17,1,1,5.2
+15,lok maya,67,2,2,13,134,1,2,7,7,normal,normal,14,13,1,2,9.8
+23,shanti maya,60,2,4,13,123,1,2,7,7,normal,normal,14,15,1,1,4.9
+26,sauri maya,57,2,3,12,135,1,1,7,6,normal,normal,14,12,1,1,4.43
+31,sita,52,2,1,10,178,1,2,2,2,normal,normal,16,18,1,1,4.8
+32,tali maya,58,2,3,13,189,2,2,2,2,normal,normal,16,18,1,1,5.4
+35,mohan maya,70,2,3,15,123,2,2,5,5,normal,normal,20,16,1,1,4.4
+38,dil maya,81,2,3,20,145,2,2,6,6,normal,normal,15,14,1,1,6.16
+41,das maya,66,2,3,11,122,2,2,2,2,normal,normal,21,18,1,1,5.2
+42,sanu maya,50,2,3,12,123,1,2,1,1,normal,normal,17,17,1,1,4.5
+44,tari maya,73,2,3,15,120,1,2,3,3,normal,normal,21,18,1,1,4.97
+45,hira shova,60,2,3,17,134,1,2,3,3,normal,normal,13,17,1,2,10.9
+46,kanchhi maya,78,2,3,17,156,1,2,3,6,normal,normal,12,12,1,2,7
+47,mashini maya,63,2,3,18,156,1,2,3,6,normal,normal,19,20,1,2,10
+49,aastha maya,71,2,3,18,155,1,2,3,3,normal,normal,20,20,1,2,10
+55,krishna laxmi,62,2,3,15,120,1,2,2,4,normal,normal,17,18,1,1,4.5
+60,aastha maya,66,2,3,17,134,1,2,4,4,normal,normal,12,19,1,1,5.1
+61,battai,84,2,2,17,156,1,2,4,7,normal,normal,12,15,1,2,9.1
+62,ratna maya,77,2,3,18,156,1,2,2,2,normal,normal,13,13,1,1,3.5
+64,dil kumari,79,2,2,18,155,1,2,6,7,normal,normal,13,16,1,1,4.5
+65,megh kumari,73,2,2,15,120,1,2,3,3,normal,normal,14,14,1,2,7.14
+67,purna maya,59,2,3,17,134,1,2,7,7,normal,normal,21,20,1,2,8.1
+69,purna maya,59,2,3,17,156,1,2,7,7,normal,normal,21,20,1,2,8.3
+71,dirgha maya,95,2,2,18,156,1,2,7,7,normal,normal,16,16,1,1,6
+72,nani maya,60,2,3,18,155,1,2,6,6,normal,normal,18,20,1,1,6.13
+74,keshari maya,69,2,3,18,156,1,2,5,4,normal,normal,19,14,1,1,6.8
+75,sun maya,51,2,3,18,155,1,2,2,2,normal,normal,12,12,1,1,3.8
+76,maiya,50,2,3,15,120,1,2,1,1,normal,normal,13,12,1,1,6.3
+80,sun maya,53,2,3,17,134,1,2,5,4,normal,normal,12,11,1,1,6.3
+83,laxmi maya,59,2,1,17,156,1,2,3,3,normal,normal,18,18,1,2,7.2
+84,thuli,55,2,3,18,156,1,2,1,1,normal,normal,11,10,1,1,5.4
+86,kali maya,62,2,2,18,155,1,2,6,6,normal,normal,16,18,1,2,7.6
+87,sun maya,72,2,4,15,120,1,2,6,5,normal,normal,19,16,1,2,7.2
+91,binita,50,2,1,17,134,1,2,2,2,normal,normal,14,12,1,1,5.5
+92,juna,56,2,4,50,144,1,1,1,1,normal,normal,18,10,1,1,4.5
+93,karsang,61,2,4,51,145,1,1,3,3,normal,normal,20,10,1,1,3.8
+94,maya,52,2,1,49,140,1,1,1,1,normal,normal,11,11,1,1,5.3
+96,hari maya,65,2,4,50,143,1,1,5,5,normal,normal,14,10,1,2,8.69
+99,surja maya,69,2,4,58,165,1,1,5,6,normal,normal,14,11,1,2,7.03
+100,gayatri,56,2,1,51,145,1,1,3,3,normal,normal,11,12,1,1,5
+103,tatu,67,2,4,54,155,2,1,4,5,normal,normal,20,18,1,1,6.3
+104,kunchuk,69,2,4,55,156,1,2,4,3,normal,normal,15,19,1,1,6.3
+105,yangdon,69,2,4,58,167,2,1,4,9,normal,normal,17,20,3,1,6
+106,kunsang,65,2,4,60,170,2,2,4,3,normal,normal,15,17,1,2,10.2
+107,naina,75,2,1,47,134,2,2,4,5,others,normal,10,14,1,2,10.9
+108,katu,75,2,4,55,156,2,1,4,4,normal,normal,19,17,1,1,5
+109,kamala,50,2,2,58,166,1,1,3,4,normal,normal,14,18,1,1,5.4
+110,chadon,55,2,4,50,144,1,1,3,2,normal,normal,16,21,1,2,6.5
+111,champa,65,2,2,47,135,1,1,6,6,normal,normal,15,19,1,1,6.7
+113,lobsang,55,2,4,63,180,1,1,2,2,normal,normal,18,14,1,1,4
+114,chau,65,2,4,47,133,1,1,6,6,normal,normal,11,14,1,1,6.7
+116,dika,63,2,4,46,132,2,2,3,3,normal,normal,13,17,1,1,4.3
+120,khandro,65,2,4,46,131,2,1,3,2,normal,normal,11,10,1,2,10
+121,kunasang,60,2,4,51,145,2,1,6,7,normal,normal,13,14,1,2,9
+123,dil kumari,79,2,2,50,144,2,1,6,7,normal,normal,13,16,1,2,5.5
+125,chojom,58,2,4,51,146,2,2,2,2,normal,normal,16,18,1,2,5
+126,prema,60,2,4,51,147,2,2,1,2,normal,normal,17,15,1,1,5.61
+127,bishnu,63,2,4,52,148,1,1,3,4,normal,normal,18,18,1,1,3.8
+128,dadom,59,2,4,52,149,2,1,2,2,normal,normal,15,16,1,1,8.5
+131,dolma,65,2,4,53,150,1,1,6,6,normal,normal,14,12,1,1,3.8
+132,mithu,54,2,2,17,156,1,1,3,2,normal,normal,12,14,1,1,4.3
+133,champa,66,2,2,16,158,1,1,1,1,normal,normal,13,11,1,2,7.7
+134,anita,56,2,2,21,150,1,1,1,2,normal,normal,13,15,1,1,4
+136,ratna maya,56,2,2,18,145,1,2,3,3,normal,normal,20,14,1,1,4
+137,dirdha maya,95,2,2,20,158,1,1,7,7,normal,normal,16,16,1,1,6.4
+138,nani maya,60,2,3,15,150,1,1,6,6,normal,normal,18,20,1,1,4.9
+156,shanti maya,60,2,4,17,143,1,1,7,8,normal,normal,14,15,1,1,7.5
+158,mina,60,2,1,17,142,1,2,2,4,normal,normal,11,14,1,1,3.8
+166,lopsang,50,2,4,16,151,1,1,2,2,normal,normal,18,14,1,1,5.8
+167,chau,66,2,4,14,153,1,1,5,6,normal,normal,11,14,1,1,4
+169,dika,57,2,4,21,164,1,1,2,3,normal,normal,13,14,1,1,5.9
+170,lama,62,2,4,20,161,2,2,3,3,normal,normal,15,19,1,2,9
+171,dejing,65,2,4,16,160,2,2,3,4,normal,normal,17,18,1,2,8.5
+173,khandro,63,2,4,12,162,2,2,3,3,normal,normal,13,10,1,1,6
+174,kunasang,64,2,4,16,178,2,1,6,7,normal,normal,18,14,1,1,5.16
+175,amsuri,60,2,4,13,176,2,2,6,2,normal,normal,16,13,1,2,9.4
+176,shiv kumari,69,2,4,12,145,2,1,6,6,normal,normal,13,13,1,2,7.8
+178,chojom,52,2,4,15,166,1,2,2,2,normal,normal,18,18,1,1,6.1
+179,dika,51,2,4,18,156,1,1,1,1,normal,normal,17,16,1,1,6.5
+180,losang,55,2,4,12,146,1,2,2,2,normal,normal,18,15,1,1,5.9
+181,chodum,57,2,4,18,167,1,1,5,5,normal,normal,11,14,1,1,5.4
+183,dika,53,2,4,18,134,1,1,2,2,normal,normal,12,14,1,2,8.1
+184,lama,62,2,4,15,157,1,1,3,2,normal,normal,15,16,1,2,8
+185,desing,64,2,4,13,180,1,1,3,3,normal,normal,17,18,1,2,8.4
+186,surili,54,2,4,12,143,1,1,1,1,normal,normal,16,18,1,2,8.3
+187,bhawana,50,2,3,19,138,1,2,1,1,normal,normal,16,15,1,2,10.7
+250,krishna kumari,62,2,3,10,167,1,2,7,3,normal,normal,12,16,1,2,7.6
+251,tulsi maya,60,2,3,17,177,1,1,5,5,normal,normal,16,16,1,1,5.5
+252,kam kumari,60,2,3,15,166,1,1,7,4,normal,normal,21,21,1,1,5.8
+253,devi,50,2,4,12,155,1,2,3,2,normal,normal,12,20,1,1,5.5
+254,aastha maya,65,2,3,17,144,1,2,5,1,normal,normal,20,20,1,2,10
+255,rishna maya,77,2,3,13,189,1,1,2,2,normal,normal,11,13,1,2,10.7
+257,daya laxmi,62,2,3,17,167,1,1,5,5,normal,normal,15,14,1,2,8.1
+258,gyanu maya,56,2,3,14,145,2,2,1,1,normal,normal,19,16,1,1,6.2
+259,dharma laxmi,65,2,3,19,167,2,1,2,2,normal,normal,18,18,1,2,7.1
+260,bishnu,57,2,3,12,145,2,2,3,3,normal,normal,17,15,1,2,7.2
+263,dil maya,81,2,3,19,167,2,2,2,3,normal,normal,12,13,1,1,6.5
+265,surja maya,51,2,3,13,144,2,2,2,2,normal,normal,12,12,1,2,8
+266,laxmi,51,2,3,17,134,2,2,2,3,normal,normal,15,17,1,1,6
+269,mann keshari,52,2,3,18,145,1,2,2,2,normal,normal,18,14,1,2,8.2
+272,ganesh maya,65,2,3,13,156,2,2,2,1,normal,normal,13,12,1,1,5.2
+274,gyan laxmi,58,2,3,18,156,1,2,2,3,normal,normal,14,16,1,2,9.8
+275,nani chari,70,2,3,15,189,1,2,4,5,normal,normal,18,18,1,1,4.9
+277,laxmi,56,2,3,11,145,1,1,1,7,normal,normal,13,12,4,1,4.43
+279,dirgha laxmi,63,2,3,15,167,1,1,4,5,normal,normal,13,13,1,1,4.8
+281,aastha laxmi,52,2,3,18,145,1,2,1,1,normal,normal,19,15,1,1,5.4
+283,tulsi maya,52,2,3,11,134,1,1,2,2,normal,normal,16,19,1,1,4.4
+284,chand laxmi,72,2,4,24,178,1,2,4,2,normal,normal,17,17,1,1,6.16
+285,chari maya,87,2,3,13,134,1,1,4,3,normal,normal,14,12,1,1,5.2
+286,moni maya,50,2,3,11,130,1,2,1,1,normal,normal,14,12,1,1,4.5
+287,purneshwari,60,2,3,13,155,1,1,4,4,normal,normal,17,19,1,1,4.97
+288,sanu maya,65,2,3,18,134,1,2,3,6,normal,normal,21,21,1,2,10.9
+289,sher maya,70,2,3,11,129,1,2,5,4,normal,normal,15,18,1,2,7
+290,bishnu maya,88,2,3,10,128,2,2,5,5,normal,normal,16,17,1,2,10
+291,kedar laxmi,62,2,3,20,130,2,2,1,1,normal,normal,12,13,1,2,10
+292,chandra maya,75,2,3,14,125,2,2,5,4,normal,normal,13,15,1,1,4.5
+294,mukti maya,74,2,3,13,135,2,1,2,5,normal,normal,17,17,1,1,5.1
+297,sundari,74,2,3,19,126,2,2,1,2,normal,normal,18,20,1,2,9.1
+298,laxmi,50,2,3,11,122,2,1,1,1,normal,normal,18,19,1,1,3.5
+300,mangla maya,65,2,3,18,156,1,2,2,2,normal,normal,18,18,1,1,4.5
+302,moti maya,67,2,3,13,134,1,2,2,3,normal,normal,19,20,1,2,7.14
+304,harikrishna maya,66,2,3,13,123,1,2,2,1,normal,normal,13,11,1,2,8.1
+305,sabitri,54,2,3,12,135,1,1,2,1,normal,normal,15,14,1,2,8.3
+306,ratna keshari,58,2,3,10,178,1,2,1,1,normal,normal,14,16,1,1,6
+309,harikrishna maya,81,2,3,13,189,2,2,2,1,normal,normal,13,11,1,1,6.13
+310,laxmi,58,2,1,15,123,2,2,1,7,normal,normal,15,13,1,1,6.8
+311,krishna kumari,57,2,3,20,145,2,2,2,2,normal,normal,15,15,1,1,3.8
+312,kamala,50,2,3,11,122,2,2,1,1,normal,normal,12,15,1,1,6.3
+313,anjana,50,2,1,12,123,1,2,1,1,normal,normal,18,19,1,1,6.3
+315,purna laxmi,63,2,3,15,120,1,2,2,2,normal,normal,17,17,1,2,7.2
+318,dhan maya,50,2,3,17,134,1,2,1,1,normal,normal,11,15,1,1,5.4
+320,krishna laxmi,55,2,3,17,156,1,2,1,1,normal,normal,14,16,1,2,7.6
+321,netra kumari,55,2,3,18,156,1,2,1,2,normal,normal,18,18,1,2,7.2
+323,kumari,72,2,3,18,155,1,2,2,2,normal,normal,18,16,1,1,5.5
+324,hari maya,67,2,3,15,120,1,2,2,3,normal,normal,14,13,1,1,4.5
+327,purna maya,60,2,3,17,134,1,2,4,3,normal,normal,15,21,1,1,3.8
+328,dhan maya,72,2,3,17,156,1,2,2,2,normal,normal,16,17,1,1,5.3
+331,din maya,67,2,3,18,156,1,2,3,7,normal,normal,14,16,1,2,8.69
+332,pritha maya,59,2,3,18,155,1,2,2,2,normal,normal,16,20,1,2,7.03
+333,pancha keshari,61,2,3,15,120,1,2,1,1,normal,normal,15,18,1,1,5
+335,keshari maya,74,2,3,17,134,1,2,5,8,normal,normal,15,13,1,1,6.3
+336,baikuntha maya,64,2,3,17,156,1,2,1,1,normal,normal,17,16,1,1,6.3
+337,krishna maya,56,2,3,18,156,1,2,7,1,normal,normal,21,21,1,1,6
+338,beti maya,66,2,3,18,155,1,2,2,2,normal,normal,16,18,1,2,10.2
+339,kancchi,63,2,4,18,156,1,2,7,7,normal,normal,19,17,1,2,10.9
+341,chandra laxmi,67,2,3,18,155,1,2,2,4,normal,normal,18,21,1,1,5
+342,krishna laxmi,64,2,3,15,120,1,2,2,7,normal,normal,13,16,1,1,5.4
+344,hari maya,60,2,3,17,134,1,2,2,2,normal,normal,16,15,1,2,6.5
+345,laxmi devi,72,2,3,17,156,1,2,2,2,normal,normal,12,12,1,1,6.7
+349,kirti maya,62,2,3,18,156,1,2,2,4,normal,normal,13,14,1,1,4
+353,ratna maya,80,2,3,18,155,1,2,3,5,normal,normal,16,14,1,1,6.7
+360,maya devi,60,2,3,15,120,1,2,2,2,normal,normal,15,15,1,1,4.3
+361,chandra maya,66,2,3,17,134,1,2,4,4,normal,normal,15,15,1,2,10
+362,gyani maya,60,2,3,50,144,1,1,2,2,normal,normal,21,20,1,2,9
+366,laxmi keshari,70,2,3,51,145,1,1,4,7,normal,normal,18,15,1,2,5.5
+367,kanchhi,50,2,4,49,140,1,1,1,1,normal,normal,21,20,1,2,5
+368,surya maya,66,2,3,50,143,1,1,2,2,normal,normal,16,19,1,1,5.61
+370,sundari,53,2,3,58,165,1,1,2,1,normal,normal,14,14,1,1,3.8
+371,chaita maya,62,2,3,51,145,1,1,2,2,normal,normal,15,13,1,1,8.5
+372,asha maya,63,2,3,54,155,2,1,3,3,normal,normal,14,15,1,1,3.8
+373,tej laxmi,67,2,3,55,156,1,2,1,1,normal,normal,15,15,1,1,4.3
+374,moti maya,62,2,3,58,167,2,1,4,3,normal,normal,13,16,1,2,7.7
+376,kanchhi,50,2,3,60,170,2,2,7,2,normal,normal,15,16,1,1,4
+377,mangal maya,54,2,3,47,134,2,2,3,2,normal,normal,12,11,1,1,4
+378,mahalaxmi,51,2,3,55,156,2,1,2,2,normal,normal,12,13,1,1,6.4
+380,mann laxmi,60,2,3,58,166,1,1,1,1,normal,normal,14,17,1,1,4.9
+381,krishna laxmi,66,2,3,50,144,1,1,3,2,normal,normal,12,14,1,1,7.5
+383,ganesh laxmi,70,2,3,47,135,1,1,2,4,normal,normal,13,19,1,1,3.8
+386,khina maya,60,2,4,63,180,1,1,3,3,normal,normal,16,16,1,1,5.8
+387,renuka,60,2,1,47,133,1,1,7,7,normal,normal,17,17,1,1,4
+388,krishna maya,70,2,3,46,132,2,2,7,7,normal,normal,15,13,1,1,5.9
+389,tirtha maya,52,2,1,46,131,2,1,4,6,normal,normal,14,15,1,2,9
+390,pabi maya,62,2,4,51,145,2,1,7,6,normal,normal,15,17,1,2,8.5
+502,jag maya,52,2,2,50,144,2,1,4,2,normal,normal,11,15,1,1,6
+503,sukha maya,59,2,4,51,146,2,2,4,4,normal,normal,12,13,1,1,5.16
+505,sharada,50,2,4,51,147,2,2,2,3,normal,normal,18,17,1,2,9.4
+1,chana maya,68,2,1,52,148,1,1,3,6,normal,normal,13,20,2,2,7.8
+2,chana maya,68,2,1,52,149,2,1,3,6,normal,normal,13,20,2,1,6.1
+7,chandra maya,60,2,3,53,150,1,1,7,3,normal,normal,12,14,3,1,6.5
+8,bishnu,63,2,4,17,156,1,1,3,7,normal,normal,14,12,3,1,5.9
+10,sundari,75,2,3,16,158,1,1,7,7,normal,normal,16,16,2,1,5.4
+14,chandra maya,51,2,3,21,150,1,1,4,3,normal,normal,15,11,2,2,8.1
+17,chana maya,64,2,3,18,145,1,2,6,5,normal,normal,18,17,3,2,8
+19,tulsi maya,70,2,3,20,158,1,1,7,3,normal,normal,22,21,3,2,8.4
+20,tulsi krishna,69,2,3,15,150,1,1,4,8,normal,normal,17,19,2,2,8.3
+37,krishna maya,71,2,3,17,143,1,1,7,4,normal,normal,11,10,3,2,10.7
+43,govinda maiya,73,2,3,17,142,1,2,7,8,others,others,14,31,2,2,7.6
+56,tulsi maya,66,2,3,16,151,1,1,5,7,normal,normal,15,14,3,1,5.5
+58,kanchhi maya,60,2,3,14,153,1,1,7,7,normal,normal,13,13,3,1,5.8
+59,nani maya,75,2,3,21,164,1,1,2,7,normal,normal,16,18,3,1,5.5
+122,chamsuri,60,2,4,20,161,2,2,9,2,normal,normal,12,13,3,2,10
+139,pema,82,2,4,16,160,2,2,7,7,normal,normal,17,18,3,2,10.7
+140,kungsan,62,2,4,12,162,2,2,3,3,normal,normal,12,17,2,2,8.1
+142,chhiring,62,2,4,16,178,2,1,7,7,normal,normal,17,20,3,1,6.2
+143,sangyung,63,2,4,13,176,2,2,6,7,normal,normal,18,15,3,2,7.1
+144,chung,71,2,4,12,145,2,1,3,2,normal,normal,17,19,2,2,7.2
+145,ani,60,2,4,15,166,1,2,6,5,normal,normal,20,20,3,1,6.5
+146,choezom,64,2,4,18,156,1,1,3,3,normal,normal,16,14,2,2,8
+148,pushpa,60,2,2,12,146,1,2,4,4,normal,normal,17,20,2,1,6
+150,dambar kumar,68,2,2,18,167,1,1,7,7,normal,normal,15,14,3,2,8.2
+153,bhagwati,60,2,2,18,134,1,1,3,3,normal,normal,16,17,2,1,5.2
+160,yangdon,69,2,4,15,157,1,1,4,9,normal,normal,17,20,3,2,9.8
+163,mohan devi,70,2,3,13,180,1,1,7,7,normal,normal,18,28,3,1,4.9
+248,krishna maya,65,2,3,12,143,1,1,9,7,normal,normal,14,14,3,1,4.43
+264,kanchhi,60,2,3,19,138,1,2,7,8,normal,normal,18,18,3,1,4.8
+293,hira maya,50,2,3,10,167,1,2,6,7,normal,normal,16,13,3,1,5.4
+296,potali maya,76,2,3,17,177,1,1,9,4,normal,normal,15,18,3,1,4.4
+314,chana maya,61,2,3,15,166,1,1,5,9,normal,normal,17,18,3,1,6.16
+325,surya maya,76,2,3,12,155,1,2,2,7,normal,normal,12,11,3,1,5.2
+334,kanchhi,77,2,3,17,144,1,2,5,6,normal,normal,14,16,3,1,4.5
+340,chhuni maya,90,2,3,13,189,1,1,8,7,normal,normal,15,15,3,1,4.97
+375,laxmi,50,2,3,17,167,1,1,6,7,normal,normal,18,17,3,2,10.9
+382,krishna maya,68,2,3,14,145,2,2,9,9,normal,normal,12,14,3,2,7
+384,dil maya,90,2,3,19,167,2,1,6,6,normal,normal,20,21,3,2,10
+478,tashi,72,2,4,12,145,2,2,9,7,normal,normal,42,23,3,2,10
+479,harikrishna maya,80,2,3,19,167,2,2,9,8,others,others,50,16,2,1,4.5
+188,doma,51,2,4,13,144,2,2,7,7,normal,normal,10,13,1,1,5.1
+322,nani chhori,66,2,1,17,134,2,2,1,9,normal,normal,18,17,4,2,9.1
+4,chana maya,68,2,1,18,145,1,2,5,9,normal,normal,15,16,3,1,3.5
+189,sita,58,2,1,13,156,2,2,3,3,normal,normal,14,15,1,1,4.5
+191,karsang,61,2,4,18,156,1,2,3,3,normal,normal,20,10,1,2,7.14
+192,dhan maya,50,2,4,15,189,1,2,1,1,normal,normal,11,15,1,2,8.1
+194,phul maya,70,2,4,11,145,1,1,5,5,normal,normal,14,10,1,2,8.3
+196,kanchhi,68,2,4,15,167,1,1,2,9,normal,normal,10,10,1,1,6
+197,nakalli,76,2,3,18,145,1,2,6,4,normal,normal,18,20,1,1,6.13
+198,laxmi,65,2,3,11,134,1,1,2,2,normal,normal,14,11,1,1,6.8
+199,sabitri,65,2,1,24,178,1,2,2,2,normal,normal,10,10,1,1,3.8
+200,suku maya,58,2,4,13,134,1,1,2,2,normal,normal,14,21,1,1,6.3
+201,purna laxmi,50,2,3,11,130,1,2,1,1,normal,normal,14,10,1,1,6.3
+202,chasing,65,2,4,13,155,1,1,4,2,normal,normal,11,13,1,2,7.2
+203,salina,50,2,1,18,134,1,2,1,1,normal,normal,18,14,1,1,5.4
+205,kanchhi maya,70,2,4,11,129,1,2,2,2,normal,normal,13,13,1,2,7.6
+207,laxmi,52,2,1,10,128,2,2,1,1,normal,normal,15,14,1,2,7.2
+208,kanchhi,66,2,4,20,130,2,2,3,7,normal,normal,12,13,1,1,5.5
+209,sun kesharai,63,2,3,14,125,2,2,7,6,normal,normal,15,16,1,1,4.5
+210,apsara,50,2,3,13,135,2,1,3,3,normal,normal,15,16,1,1,3.8
+211,laxmi,61,2,1,19,126,2,2,2,2,normal,normal,11,12,1,1,5.3
+213,tara,60,2,1,11,122,2,1,1,1,normal,normal,15,12,1,2,8.69
+214,dharma kumari,62,2,4,18,156,1,2,3,4,normal,normal,10,11,1,2,7.03
+216,satyamati,60,2,2,13,134,1,2,1,1,normal,normal,16,17,1,1,5
+217,dikki doma,78,2,4,13,123,1,2,7,8,normal,normal,15,15,1,1,6.3
+218,sita kumari,60,2,2,12,135,1,1,3,4,normal,normal,14,13,1,1,6.3
+219,dhan maya,79,2,3,10,178,1,2,7,8,normal,normal,20,17,1,1,6
+221,lila maya,66,2,2,13,189,2,2,3,7,normal,normal,11,12,1,2,10.2
+222,sanu kanchhi,70,2,4,15,123,2,2,3,7,normal,normal,12,14,1,2,10.9
+223,manjuri,70,2,4,20,145,2,2,3,7,normal,normal,14,17,1,1,5
+224,maili,60,2,4,11,122,2,2,3,7,normal,normal,13,17,1,1,5.4
+227,jeet kumari,51,2,4,12,123,1,2,3,2,normal,normal,15,17,1,2,6.5
+232,mala,57,2,3,15,120,1,2,2,2,normal,normal,20,17,1,1,6.7
+234,dharma kumari,62,2,3,17,134,1,2,6,6,normal,normal,15,12,1,1,4
+235,suk maya,58,2,4,17,156,1,2,4,3,normal,normal,19,11,1,1,6.7
+237,sita maya,60,2,4,18,156,1,2,5,5,normal,normal,15,18,1,1,4.3
+239,sharmila,50,2,2,18,155,1,2,1,1,normal,normal,12,12,1,2,10
+240,bhagwati,50,2,2,15,120,1,2,1,1,normal,normal,18,16,1,2,9
+241,roop maya,57,2,1,17,134,1,2,2,2,normal,normal,14,11,1,2,5.5
+243,krishna kumari,61,2,1,17,156,1,2,5,4,normal,normal,12,12,1,2,5
+244,man kumari,65,2,4,18,156,1,2,7,6,normal,normal,17,19,1,1,5.61
+246,shushila,50,2,3,18,155,1,2,2,2,normal,normal,16,15,1,1,3.8
+393,aspuri,67,2,4,15,120,1,2,3,3,normal,normal,16,20,1,1,8.5
+396,chhal kumari,65,2,1,17,134,1,2,2,3,normal,normal,14,18,1,1,3.8
+397,tara,61,2,4,17,156,1,2,4,4,normal,normal,16,17,1,1,4.3
+400,ratna maya,60,2,2,18,156,1,2,5,6,normal,normal,14,14,1,2,7.7
+401,ichhuka,52,2,4,18,155,1,2,2,2,normal,normal,13,15,1,1,4
+402,mishra maya,60,2,4,18,156,1,2,3,3,normal,normal,21,19,1,1,4
+414,gyan kumari,60,2,1,18,155,1,2,2,2,normal,normal,20,19,1,1,6.4
+415,mithu maya,64,2,2,15,120,1,2,3,7,normal,normal,12,13,1,1,4.9
+416,man kumari,60,2,1,17,134,1,2,3,3,normal,normal,14,15,1,1,7.5
+417,durga maya,66,2,4,17,156,1,2,3,3,normal,normal,14,16,1,1,3.8
+418,ratna maya,60,2,4,18,156,1,2,3,3,normal,normal,16,16,1,1,5.8
+419,krishna maya,85,2,2,18,155,1,2,7,8,normal,normal,16,14,1,1,4
+422,shiv maya,64,2,4,15,120,1,2,3,9,normal,normal,12,12,3,1,5.9
+424,bed kumari,80,2,1,17,134,1,2,7,7,normal,normal,13,14,1,2,9
+428,rana maya,65,2,3,50,144,1,1,7,7,normal,normal,11,13,1,2,8.5
+430,bishnu maya,60,2,2,51,145,1,1,3,3,normal,normal,14,14,1,1,6
+432,chini maya,60,2,1,49,140,1,1,3,1,normal,normal,13,14,1,1,5.16
+438,tanka maya,56,2,4,50,143,1,1,3,2,normal,normal,18,21,1,2,9.4
+439,chandra bahadur,53,2,4,58,165,1,1,7,7,normal,normal,14,18,1,2,7.8
+440,som maya,73,2,4,51,145,1,1,6,6,normal,normal,12,14,1,1,6.1
+441,januka,76,2,4,54,155,2,1,6,6,normal,normal,13,14,1,1,6.5
+442,bhum maya,61,2,4,55,156,1,2,3,3,normal,normal,13,14,1,1,5.9
+446,tanka kumari,64,2,1,58,167,2,1,3,4,normal,normal,14,12,1,1,5.4
+447,bishnu maya,70,2,2,60,170,2,2,5,5,normal,normal,21,18,1,2,8.1
+448,bishnu maya,51,2,4,47,134,2,2,1,1,normal,normal,21,21,1,2,8
+449,bhav maya,61,2,4,55,156,2,1,3,3,normal,normal,13,16,1,2,8.4
+451,mithu maya,65,2,4,58,166,1,1,3,4,normal,normal,12,17,1,2,8.3
+452,adi maya,75,2,4,50,144,1,1,6,5,normal,normal,12,17,1,2,10.7
+453,mann devi,63,2,1,47,135,1,1,3,7,normal,normal,16,16,1,2,7.6
+459,dhan maya,52,2,4,63,180,1,1,3,3,normal,normal,15,15,1,1,5.5
+460,bhima maya,65,2,4,47,133,1,1,5,5,normal,normal,13,15,1,1,5.8
+464,nanda maya,58,2,2,46,132,2,2,3,3,normal,normal,16,17,1,1,5.5
+470,san kumari,65,2,4,46,131,2,1,7,7,normal,normal,16,20,1,2,10
+473,radha,70,2,2,51,145,2,1,6,3,normal,normal,23,24,1,2,10.7
+480,khadga kumari,80,2,2,50,144,2,1,4,5,normal,normal,21,19,1,2,8.1
+482,danta maya,62,2,4,51,146,2,2,7,7,normal,normal,21,14,1,1,6.2
+484,sarada,66,2,1,51,147,2,2,3,3,normal,normal,18,18,1,2,7.1
+489,aastha maya,59,2,4,52,148,1,1,2,2,normal,normal,17,18,1,2,7.2
+492,sirsa maya,55,2,4,52,149,2,1,2,2,normal,normal,19,20,1,1,5.8
+494,jeet kumari,52,2,1,53,150,1,1,2,2,normal,normal,10,10,1,1,5.5
+495,thuli,62,2,4,17,156,1,1,5,5,normal,normal,11,15,1,2,10
+498,sita maya,60,2,3,16,158,1,1,6,6,normal,normal,15,17,1,2,10.7
+500,nar maya,54,2,1,21,150,1,1,2,2,normal,normal,12,12,1,2,8.1

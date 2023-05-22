@@ -1,0 +1,506 @@
+sn,namefirst,age,sex,ethni,Weight,Height,Smoking,ocular_cancers,visual_acuity_rt,visual_acuity_le,Anterior_chamber_rt,Anterior_chamber_le,pressure_rt,pressure_le,diag,outcome_inst,score_inst
+12,purna krishna,72,Male,Newars,50,144,Smoker,Yes,4,4,normal,normal,20,17,No Glucoma,1,6.5
+18,jagat bdr,68,Male,Chhetry,51,145,Smoker,Yes,7,7,normal,normal,18,16,No Glucoma,2,8
+21,rajendra,60,Male,Brahmins,49,140,Smoker,Yes,3,3,normal,normal,19,21,No Glucoma,1,6
+24,gauri krishna,86,Male,Newars,50,143,Smoker,Yes,7,4,normal,normal,16,18,No Glucoma,2,8.2
+25,govinda hari,76,Male,Newars,58,165,Smoker,Yes,2,2,normal,normal,21,20,No Glucoma,1,5.2
+27,raja ram,65,Male,Newars,51,145,Smoker,Yes,3,3,normal,normal,17,15,No Glucoma,2,9.8
+28,surya prasad,64,Male,Chhetry,54,155,Non Smoker,Yes,2,2,normal,normal,16,17,No Glucoma,1,4.9
+29,kaji bahadur,83,Male,Newars,55,156,Smoker,No,7,7,normal,normal,11,17,No Glucoma,1,4.43
+30,ram bhakta,70,Male,Newars,58,167,Non Smoker,Yes,2,2,normal,normal,14,16,No Glucoma,1,4.8
+33,prithivi man,76,Male,Others,60,170,Non Smoker,No,5,5,normal,normal,17,14,No Glucoma,1,5.4
+36,mohan krishna,64,Male,Others,47,134,Non Smoker,No,2,2,normal,normal,17,21,No Glucoma,1,4.4
+39,sun hari,59,Male,Others,55,156,Non Smoker,Yes,5,2,normal,normal,17,20,No Glucoma,1,6.16
+40,krishna,67,Male,Newars,58,166,Smoker,Yes,2,4,normal,normal,14,16,No Glucoma,1,5.2
+50,krishna kumar,68,Male,Newars,50,144,Smoker,Yes,4,7,normal,normal,12,12,No Glucoma,1,4.5
+51,ratna bahadur,80,Male,Chhetry,47,135,Smoker,Yes,4,7,normal,normal,12,16,No Glucoma,1,4.97
+52,krishna kumar,72,Male,Newars,63,180,Smoker,Yes,3,3,normal,normal,14,13,No Glucoma,2,10.9
+53,ram chandra,70,Male,Newars,47,133,Smoker,Yes,1,3,normal,normal,12,12,No Glucoma,2,7
+54,khadga ratna,58,Male,Newars,46,132,Non Smoker,No,7,4,normal,normal,14,15,No Glucoma,2,10
+63,jeet govinda,60,Male,Newars,46,131,Non Smoker,Yes,4,4,normal,normal,19,18,No Glucoma,2,10
+66,bhai kaji,60,Male,Others,51,145,Non Smoker,Yes,1,1,normal,normal,15,12,No Glucoma,1,4.5
+68,bhai,74,Male,Newars,50,144,Non Smoker,Yes,6,5,normal,normal,16,18,No Glucoma,1,5.1
+70,bhai,74,Male,Newars,51,146,Non Smoker,No,6,5,normal,normal,16,18,No Glucoma,2,9.1
+73,tez bahadur,71,Male,Newars,51,147,Non Smoker,No,5,4,normal,normal,16,15,No Glucoma,1,3.5
+77,govinda,52,Male,Chhetry,52,148,Smoker,Yes,2,1,normal,normal,15,13,No Glucoma,1,4.5
+78,mahendra,56,Male,Newars,52,149,Non Smoker,Yes,4,4,normal,normal,17,12,No Glucoma,2,7.14
+79,jivan bahadur,60,Male,Newars,53,150,Smoker,Yes,6,3,normal,normal,18,19,No Glucoma,2,8.1
+81,ram bhakta,59,Male,Newars,17,156,Smoker,Yes,2,2,normal,normal,10,10,No Glucoma,2,8.3
+82,dina nath,65,Male,Brahmins,16,158,Smoker,Yes,4,4,normal,normal,12,17,No Glucoma,1,6
+85,min bahadur,50,Male,Others,21,150,Smoker,Yes,1,1,normal,normal,17,15,No Glucoma,1,6.13
+88,sambhu,51,Male,Brahmins,18,145,Smoker,No,2,2,normal,normal,12,12,No Glucoma,1,6.8
+89,jivan bahadur,63,Male,Brahmins,20,158,Smoker,Yes,4,4,normal,normal,15,17,No Glucoma,1,3.8
+90,dirgha,56,Male,Others,15,150,Smoker,Yes,7,6,normal,normal,14,13,No Glucoma,1,6.3
+95,dilli bahadur,75,Male,Others,17,143,Smoker,Yes,6,5,normal,normal,15,17,No Glucoma,1,6.3
+97,ram bahadur,54,Male,Chhetry,17,142,Smoker,No,1,1,normal,normal,12,14,No Glucoma,2,7.2
+98,basanta bahadur,52,Male,Brahmins,16,151,Smoker,Yes,2,2,normal,normal,19,19,No Glucoma,1,5.4
+101,arjun,56,Male,Chhetry,14,153,Smoker,Yes,7,3,normal,normal,17,12,No Glucoma,2,7.6
+102,kul bahadur,76,Male,Chhetry,21,164,Smoker,Yes,6,4,normal,normal,15,19,No Glucoma,2,7.2
+112,tsering,55,Male,Others,20,161,Non Smoker,No,5,4,normal,normal,13,13,No Glucoma,1,5.5
+117,lama,61,Male,Others,16,160,Non Smoker,No,3,3,normal,normal,15,17,No Glucoma,1,4.5
+118,dejing,65,Male,Others,12,162,Non Smoker,No,3,4,normal,normal,17,18,No Glucoma,1,3.8
+119,tek bahadur,55,Male,Chhetry,16,178,Non Smoker,Yes,1,1,normal,normal,16,13,No Glucoma,1,5.3
+124,jeet govinda,60,Male,Newars,13,176,Non Smoker,No,4,4,normal,normal,19,18,No Glucoma,2,8.69
+129,krishna,59,Male,Newars,12,145,Non Smoker,Yes,7,6,normal,normal,18,15,No Glucoma,2,7.03
+130,chandra man,67,Male,Others,15,166,Smoker,No,6,6,normal,normal,12,11,No Glucoma,1,5
+135,rupak,55,Male,Newars,18,156,Smoker,Yes,3,3,normal,normal,14,15,No Glucoma,1,6.3
+159,bhai,74,Male,Newars,12,146,Smoker,No,6,5,normal,normal,16,18,No Glucoma,1,6.3
+162,tika dutta,90,Male,Brahmins,18,167,Smoker,Yes,6,7,normal,normal,13,11,No Glucoma,1,6
+164,rajendra,60,Male,Brahmins,18,134,Smoker,Yes,3,3,normal,normal,19,24,Glucoma Suspect,2,10.2
+165,sering,52,Male,Others,15,157,Smoker,Yes,4,4,normal,normal,13,13,No Glucoma,2,10.9
+168,tsering,53,Male,Others,13,180,Smoker,Yes,4,6,normal,normal,12,11,No Glucoma,1,5
+172,ram bahadur,54,Male,Chhetry,12,143,Smoker,Yes,1,1,normal,normal,16,13,No Glucoma,1,5.4
+177,jeet,50,Male,Newars,19,138,Smoker,No,4,4,normal,normal,19,18,No Glucoma,2,6.5
+182,sering,62,Male,Others,10,167,Smoker,No,6,6,normal,normal,16,11,No Glucoma,1,6.7
+249,tulsi bahadur,70,Male,Newars,17,177,Smoker,Yes,9,6,normal,normal,11,10,No Glucoma,1,4
+256,singha bahadur,84,Male,Newars,15,166,Smoker,Yes,5,5,normal,normal,18,20,No Glucoma,1,6.7
+261,babu kaji,60,Male,Newars,12,155,Smoker,No,1,1,normal,normal,17,14,No Glucoma,1,4.3
+262,surya man,60,Male,Newars,17,144,Smoker,No,2,3,normal,normal,12,13,No Glucoma,2,10
+267,bekunda,63,Male,Newars,13,189,Smoker,Yes,1,1,normal,normal,20,19,No Glucoma,2,9
+268,laxmi lal,80,Male,Others,17,167,Smoker,Yes,5,5,normal,normal,15,11,No Glucoma,2,5.5
+271,bal krishna,65,Male,Newars,14,145,Non Smoker,No,2,1,normal,normal,16,18,No Glucoma,2,5
+273,biki bahadur,68,Male,Newars,19,167,Non Smoker,Yes,7,3,normal,normal,12,13,No Glucoma,1,5.61
+276,shiv kumar,67,Male,Newars,12,145,Non Smoker,No,4,4,normal,normal,13,13,No Glucoma,1,3.8
+278,lal kaji,80,Male,Newars,19,167,Non Smoker,No,3,3,normal,normal,13,12,No Glucoma,1,8.5
+280,gaj ratna,67,Male,Newars,13,144,Non Smoker,No,7,5,normal,normal,11,10,No Glucoma,1,3.8
+282,ram chandra,70,Male,Newars,17,134,Non Smoker,No,3,2,normal,normal,13,13,No Glucoma,1,4.3
+295,bikram bahadur,77,Male,Newars,18,145,Smoker,No,2,2,normal,normal,17,15,No Glucoma,2,7.7
+299,hari krishna,68,Male,Newars,13,156,Non Smoker,No,1,1,normal,normal,20,20,No Glucoma,1,4
+301,heera lal,82,Male,Newars,18,156,Smoker,No,6,6,normal,normal,11,11,No Glucoma,1,4
+303,gyan lal,77,Male,Newars,15,189,Smoker,No,1,5,normal,normal,14,12,No Glucoma,1,6.4
+307,ganesh bahadur,77,Male,Newars,11,145,Smoker,Yes,1,1,normal,normal,13,15,No Glucoma,1,4.9
+308,shiv,50,Male,Others,15,167,Smoker,Yes,5,5,normal,normal,16,17,No Glucoma,1,7.5
+316,kaji bahadur,80,Male,Newars,18,145,Smoker,No,3,5,normal,others,13,17,No Glucoma,1,3.8
+317,tez,75,Male,Newars,11,134,Smoker,Yes,3,2,normal,normal,17,18,No Glucoma,1,5.8
+319,moti kaji,58,Male,Newars,24,178,Smoker,No,1,2,normal,normal,16,18,No Glucoma,1,4
+326,padam raj,50,Male,Newars,13,134,Smoker,Yes,1,1,normal,normal,18,17,No Glucoma,1,5.9
+329,laxmi lal,75,Male,Others,11,130,Smoker,No,7,7,normal,normal,20,18,No Glucoma,2,9
+343,hari,61,Male,Newars,13,155,Smoker,Yes,1,1,normal,normal,14,15,No Glucoma,2,8.5
+346,satya narayan,59,Male,Newars,18,134,Smoker,No,3,3,normal,normal,17,15,No Glucoma,1,6
+347,laxmi narayan,70,Male,Newars,11,129,Smoker,No,7,1,normal,normal,10,13,No Glucoma,1,5.16
+348,narayan,56,Male,Newars,10,128,Non Smoker,No,1,1,normal,normal,15,13,No Glucoma,2,9.4
+350,kul das,66,Male,Newars,20,130,Non Smoker,No,3,3,normal,normal,14,15,No Glucoma,2,7.8
+352,laxmi narayan,68,Male,Newars,14,125,Non Smoker,No,3,3,normal,normal,12,12,No Glucoma,1,6.1
+354,bal krishna,57,Male,Newars,13,135,Non Smoker,Yes,1,3,normal,normal,16,14,No Glucoma,1,6.5
+355,prem bahadur,60,Male,Newars,19,126,Non Smoker,No,1,2,normal,normal,15,13,No Glucoma,1,5.9
+356,ata bahadur,50,Male,Newars,11,122,Non Smoker,Yes,2,2,normal,normal,19,17,No Glucoma,1,5.4
+357,rudra prasad,53,Male,Brahmins,18,156,Smoker,No,3,3,normal,normal,11,13,No Glucoma,2,8.1
+358,hari bhakta,71,Male,Newars,13,134,Smoker,No,4,4,normal,normal,16,16,No Glucoma,2,8
+359,kanchha,71,Male,Newars,13,123,Smoker,No,2,2,normal,normal,13,12,No Glucoma,2,8.4
+363,mashinu,60,Male,Newars,12,135,Smoker,Yes,2,2,normal,normal,14,17,No Glucoma,2,8.3
+364,tulashi keshar,52,Male,Newars,10,178,Smoker,No,3,3,normal,normal,17,14,No Glucoma,2,10.7
+365,tej laxmi,52,Male,Newars,13,189,Non Smoker,No,2,2,normal,normal,11,12,No Glucoma,2,7.6
+369,keshari,56,Male,Newars,15,123,Non Smoker,No,2,2,normal,normal,14,16,No Glucoma,1,5.5
+379,ram chandra,59,Male,Newars,20,145,Non Smoker,No,3,3,normal,normal,14,16,No Glucoma,1,5.8
+385,manish,60,Male,Newars,11,122,Non Smoker,No,3,1,normal,normal,13,15,No Glucoma,1,5.5
+391,karma bahadur,62,Male,Others,12,123,Smoker,No,4,4,normal,normal,12,17,No Glucoma,2,10
+392,govinda,63,Male,Chhetry,15,120,Smoker,No,3,3,normal,normal,21,20,No Glucoma,2,10.7
+501,sita ram,54,Male,Brahmins,17,134,Smoker,No,3,2,normal,normal,10,12,No Glucoma,2,8.1
+504,shiva bhakta,51,Male,Newars,17,156,Smoker,No,2,2,normal,normal,16,16,No Glucoma,1,6.2
+3,gorakh bahadur,71,Male,Others,18,156,Smoker,No,2,8,others,others,14,12,Glucoma Suspect with Catract,2,7.1
+5,krishna kumar,58,Male,Chhetry,18,155,Smoker,No,2,6,normal,normal,16,16,Glucoma Suspect with Catract,2,7.2
+9,hari bahadur,76,Male,Newars,15,120,Smoker,No,3,8,normal,normal,12,10,Glucoma Suspect with Catract,1,6.5
+11,masinu,76,Male,Newars,17,134,Smoker,No,7,7,normal,normal,14,16,Glucoma Suspect with Catract,2,8
+16,tulsi bahadur,63,Male,Newars,17,156,Smoker,No,3,4,normal,normal,22,20,Glucoma Suspect,1,6
+22,Krishna prasad,86,Male,Others,18,156,Smoker,No,7,7,normal,normal,13,14,Glucoma Suspect with Catract,2,8.2
+34,beni bahadur,67,Male,Newars,18,155,Smoker,No,2,9,normal,normal,14,13,Glucoma Suspect with Catract,1,5.2
+57,dharma hari,71,Male,Newars,15,120,Smoker,No,6,6,normal,normal,19,18,Glucoma Suspect with Catract,2,9.8
+141,karma,60,Male,Others,17,134,Smoker,No,6,6,normal,normal,18,16,No Glucoma,1,4.9
+147,gelok,62,Male,Others,17,156,Smoker,No,4,3,normal,normal,18,17,Glucoma Suspect,1,4.43
+151,sonam,85,Male,Others,18,156,Smoker,No,6,9,normal,normal,17,14,Glucoma Suspect with Catract,1,4.8
+152,kelsang,50,Male,Others,18,155,Smoker,No,4,4,normal,normal,14,18,Glucoma Suspect with Catract,1,5.4
+155,sudai,75,Male,Others,18,156,Smoker,No,7,7,normal,normal,16,16,Glucoma Suspect with Catract,1,4.4
+157,krishna prasad,86,Male,Others,18,155,Smoker,No,7,7,normal,normal,13,14,Glucoma Suspect with Catract,1,6.16
+161,chito,87,Male,Others,15,120,Smoker,No,8,3,normal,normal,17,20,No Glucoma,1,5.2
+270,sujo krishna,91,Male,Newars,17,134,Smoker,No,7,7,normal,normal,14,15,Glucoma Suspect with Catract,1,4.5
+351,krishna maya,70,Male,Newars,17,156,Smoker,No,7,6,normal,normal,12,14,Glucoma Suspect with Catract,1,4.97
+474,laxmi bahadur,63,Male,Newars,18,156,Smoker,No,9,7,normal,normal,32,19,Glucoma Suspect with Catract,2,10.9
+476,dilli bdr,64,Male,Chhetry,18,155,Smoker,No,7,4,normal,normal,40,14,Glucoma Suspect,2,7
+48,dil bhadur,66,Male,Newars,15,120,Smoker,No,9,3,normal,normal,40,21,No Glucoma,2,10
+115,tsering,53,Male,Others,17,134,Smoker,No,2,6,others,normal,40,11,No Glucoma,2,10
+149,nar bahadur,78,Male,Others,50,144,Smoker,Yes,7,7,normal,normal,16,17,Glucoma Suspect with Catract,1,4.5
+154,chandra bahadur,50,Male,Others,51,145,Smoker,Yes,9,7,others,others,16,45,Glucoma Suspect with Catract,1,5.1
+190,sang lama,56,Male,Others,49,140,Smoker,Yes,1,1,normal,normal,16,10,No Glucoma,2,9.1
+193,dil bahadur,75,Male,Others,50,143,Smoker,Yes,3,3,normal,normal,15,18,No Glucoma,1,3.5
+195,karna bahadur,50,Male,Chhetry,58,165,Smoker,Yes,1,1,normal,normal,12,15,No Glucoma,1,4.5
+204,bhawani,52,Male,Brahmins,51,145,Smoker,Yes,1,1,normal,normal,12,13,No Glucoma,2,7.14
+206,praladh,52,Male,Brahmins,54,155,Non Smoker,Yes,2,2,normal,normal,11,11,No Glucoma,2,8.1
+212,baburam,56,Male,Brahmins,55,156,Smoker,No,1,1,normal,normal,13,11,No Glucoma,2,8.3
+215,bhim bahadur,50,Male,Chhetry,58,167,Non Smoker,Yes,1,1,normal,normal,20,19,No Glucoma,1,6
+220,ganesh man,75,Male,Newars,60,170,Non Smoker,No,4,4,normal,normal,19,20,No Glucoma,1,6.13
+225,suraj,56,Male,Others,47,134,Non Smoker,No,1,1,normal,normal,10,18,No Glucoma,1,6.8
+226,min bahadur,52,Male,Chhetry,55,156,Non Smoker,Yes,6,9,normal,normal,20,44,Glucoma Suspect with Catract,1,3.8
+228,man bahadur,55,Male,Newars,58,166,Smoker,Yes,2,2,normal,normal,12,12,No Glucoma,1,6.3
+229,sundar,59,Male,Chhetry,50,144,Smoker,Yes,5,4,normal,normal,19,11,No Glucoma,1,6.3
+230,bhushan,54,Male,Brahmins,47,135,Smoker,Yes,2,2,normal,normal,11,10,No Glucoma,2,7.2
+231,bhim bahadur,52,Male,Brahmins,63,180,Smoker,Yes,1,1,normal,normal,12,12,No Glucoma,1,5.4
+233,kailash,59,Male,Newars,47,133,Smoker,Yes,3,2,normal,normal,13,14,No Glucoma,2,7.6
+236,ramesh bahadur,65,Male,Newars,46,132,Non Smoker,No,3,6,normal,normal,10,12,No Glucoma,2,7.2
+238,chandan,51,Male,Brahmins,46,131,Non Smoker,Yes,2,2,normal,normal,12,12,No Glucoma,1,5.5
+242,hari prasad,50,Male,Brahmins,51,145,Non Smoker,Yes,1,1,normal,normal,12,10,No Glucoma,1,4.5
+245,mahesh,53,Male,Newars,50,144,Non Smoker,Yes,2,4,normal,normal,15,19,No Glucoma,1,3.8
+247,lungu,62,Male,Others,51,146,Non Smoker,No,9,9,normal,normal,21,22,Glucoma Suspect with Catract,1,5.3
+330,budhha ratna,62,Male,Newars,51,147,Non Smoker,No,4,9,normal,normal,20,20,Glucoma Suspect with Catract,2,8.69
+394,furba,76,Male,Others,52,148,Smoker,Yes,7,7,normal,normal,20,12,No Glucoma,2,7.03
+395,jeet bahadur,61,Male,Others,52,149,Non Smoker,Yes,6,6,normal,normal,15,15,No Glucoma,1,5
+398,purna bahadur,59,Male,Others,53,150,Smoker,Yes,1,1,normal,normal,20,16,No Glucoma,1,6.3
+399,kal bahadur,84,Male,Chhetry,17,156,Smoker,Yes,6,5,normal,normal,17,17,No Glucoma,1,6.3
+403,harka bahadur,55,Male,Others,16,158,Smoker,Yes,1,1,normal,normal,16,20,No Glucoma,1,6
+404,phupadwaj,75,Male,Chhetry,21,150,Smoker,Yes,7,7,normal,normal,16,16,No Glucoma,2,10.2
+405,narayan hari,50,Male,Brahmins,18,145,Smoker,No,2,1,normal,normal,20,14,No Glucoma,2,10.9
+406,bal kumar,55,Male,Brahmins,20,158,Smoker,Yes,1,1,normal,normal,10,11,No Glucoma,1,5
+407,durga bahadur,72,Male,Newars,15,150,Smoker,Yes,4,4,normal,normal,19,20,No Glucoma,1,5.4
+408,bal bahadur,70,Male,Chhetry,17,143,Smoker,Yes,4,4,normal,normal,13,21,No Glucoma,2,6.5
+409,lakpa,66,Male,Others,17,142,Smoker,No,3,3,normal,normal,19,17,No Glucoma,1,6.7
+410,dhan bahadur,60,Male,Brahmins,16,151,Smoker,Yes,6,4,normal,normal,12,12,No Glucoma,1,4
+411,ramesh,50,Male,Newars,14,153,Smoker,Yes,4,8,normal,normal,16,16,No Glucoma,1,6.7
+412,parshuram,66,Male,Others,21,164,Smoker,Yes,7,7,normal,normal,16,11,No Glucoma,1,4.3
+413,lachhuman,60,Male,Others,20,161,Non Smoker,No,7,4,normal,normal,9,11,No Glucoma,2,10
+420,dhundi bahadur,73,Male,Chhetry,16,160,Non Smoker,No,7,7,normal,normal,15,17,No Glucoma,2,9
+421,themnuri,82,Male,Others,12,162,Non Smoker,No,4,8,normal,normal,13,13,No Glucoma,2,5.5
+423,bhola nath,75,Male,Brahmins,16,178,Non Smoker,Yes,4,4,normal,normal,20,14,No Glucoma,2,5
+425,khadga bahadur,72,Male,Chhetry,13,176,Non Smoker,No,3,4,normal,normal,13,15,No Glucoma,1,5.61
+426,ganesh bahadur,80,Male,Newars,12,145,Non Smoker,Yes,7,7,normal,normal,12,18,No Glucoma,1,3.8
+427,nek prasad,52,Male,Brahmins,15,166,Smoker,No,5,5,normal,normal,13,18,No Glucoma,1,8.5
+429,tulshi,54,Male,Chhetry,18,156,Smoker,Yes,5,6,normal,normal,12,14,No Glucoma,1,3.8
+431,dil bahadur,65,Male,Others,12,146,Smoker,No,1,1,normal,normal,13,13,No Glucoma,1,4.3
+433,dilli,66,Male,Others,18,167,Smoker,Yes,4,4,normal,normal,15,16,No Glucoma,2,7.7
+434,bishnu harka,72,Male,Others,18,134,Smoker,Yes,4,4,normal,normal,14,14,No Glucoma,1,4
+435,samay,77,Male,Others,15,157,Smoker,Yes,6,4,normal,normal,12,12,No Glucoma,1,4
+436,bhakta lal,75,Male,Chhetry,13,180,Smoker,Yes,8,8,normal,normal,13,13,No Glucoma,1,6.4
+437,dhan bahadur,70,Male,Brahmins,12,143,Smoker,Yes,8,7,normal,normal,11,10,No Glucoma,1,4.9
+443,indra bahadur,73,Male,Others,19,138,Smoker,No,8,6,others,normal,40,20,No Glucoma,1,7.5
+444,tika ram,73,Male,Newars,10,167,Smoker,No,7,7,normal,normal,20,16,No Glucoma,1,3.8
+445,gopal,66,Male,Chhetry,17,177,Smoker,Yes,3,3,normal,normal,20,14,No Glucoma,1,5.8
+450,ran bahadur,72,Male,Others,15,166,Smoker,Yes,3,7,normal,normal,13,13,No Glucoma,1,4
+454,mangal singh,75,Male,Chhetry,12,155,Smoker,No,7,7,normal,normal,16,17,No Glucoma,1,5.9
+455,bir bahadur,77,Male,Others,17,144,Smoker,No,7,7,normal,normal,16,17,No Glucoma,2,9
+456,ram bahadur,66,Male,Others,13,189,Smoker,Yes,8,7,others,normal,10,16,No Glucoma,2,8.5
+457,nar bahadur,79,Male,Others,17,167,Smoker,Yes,5,5,normal,normal,16,17,No Glucoma,1,6
+458,santa bahadur,79,Male,Chhetry,14,145,Non Smoker,No,5,5,normal,normal,16,17,No Glucoma,1,5.16
+461,nain kumar,58,Male,Chhetry,19,167,Non Smoker,Yes,3,1,normal,normal,17,16,No Glucoma,2,9.4
+462,sarsing,85,Male,Chhetry,12,145,Non Smoker,No,7,7,normal,normal,16,13,No Glucoma,2,7.8
+463,bhim bahadur,76,Male,Others,19,167,Non Smoker,No,7,9,normal,normal,17,18,Glucoma Suspect with Catract,1,6.1
+465,bhuvan prasad,64,Male,Brahmins,13,144,Non Smoker,No,3,1,normal,normal,18,15,No Glucoma,1,6.5
+466,yadav kumar,66,Male,Brahmins,17,134,Non Smoker,No,6,6,normal,normal,16,18,No Glucoma,1,5.9
+467,bhai bahadur,75,Male,Newars,18,145,Smoker,No,6,8,normal,normal,17,19,No Glucoma,1,5.4
+468,bal bahadur,67,Male,Others,13,156,Non Smoker,No,4,6,normal,normal,15,17,No Glucoma,2,8.1
+469,dhanraj,54,Male,Chhetry,18,156,Smoker,No,2,2,normal,normal,21,21,No Glucoma,2,8
+471,budhhi,50,Male,Others,15,189,Smoker,No,3,7,normal,others,22,57,Glucoma Suspect with Catract,2,8.4
+472,durga bahadur,66,Male,Others,11,145,Smoker,Yes,6,7,normal,normal,16,12,No Glucoma,2,8.3
+475,padma lal,78,Male,Brahmins,15,167,Smoker,Yes,9,9,normal,normal,34,30,Glucoma Suspect with Catract,2,10.7
+477,nima,75,Male,Others,18,145,Smoker,No,7,7,normal,normal,21,15,No Glucoma,2,7.6
+481,padam bahadur,60,Male,Others,11,134,Smoker,Yes,4,4,normal,normal,21,21,No Glucoma,1,5.5
+483,druba prasad,55,Male,Brahmins,24,178,Smoker,No,1,1,normal,normal,13,19,No Glucoma,1,5.8
+485,harka man,70,Male,Brahmins,13,134,Smoker,Yes,4,4,normal,normal,18,18,No Glucoma,1,5.5
+486,ardha ram,70,Male,Brahmins,11,130,Smoker,No,6,6,normal,normal,18,19,No Glucoma,2,10
+487,som nath,55,Male,Brahmins,13,155,Smoker,Yes,1,1,normal,normal,11,11,No Glucoma,2,10.7
+488,heera kaji,58,Male,Newars,18,134,Smoker,No,2,2,normal,normal,17,18,No Glucoma,2,8.1
+490,harka man,64,Male,Others,11,129,Smoker,No,4,4,normal,normal,19,19,No Glucoma,1,6.2
+491,hasta man,51,Male,Chhetry,10,128,Non Smoker,No,3,3,normal,normal,16,19,No Glucoma,2,7.1
+493,khumbu,50,Male,Others,20,130,Non Smoker,No,1,1,normal,normal,12,10,No Glucoma,2,7.2
+496,shambhu nath,50,Male,Brahmins,14,125,Non Smoker,No,1,1,normal,normal,19,16,No Glucoma,1,6.5
+497,jilla,59,Male,Others,13,135,Non Smoker,Yes,5,6,normal,normal,10,14,No Glucoma,2,8
+499,bhabani sankar,58,Male,Brahmins,19,126,Non Smoker,No,3,3,normal,normal,12,18,No Glucoma,1,6
+6,hari maya,70,Female,Newars,11,122,Non Smoker,Yes,3,3,normal,normal,15,13,No Glucoma,2,8.2
+13,tez kumari,65,Female,Newars,18,156,Smoker,No,6,6,normal,normal,16,17,No Glucoma,1,5.2
+15,lok maya,67,Female,Chhetry,13,134,Smoker,No,7,7,normal,normal,14,13,No Glucoma,2,9.8
+23,shanti maya,60,Female,Others,13,123,Smoker,No,7,7,normal,normal,14,15,No Glucoma,1,4.9
+26,sauri maya,57,Female,Newars,12,135,Smoker,Yes,7,6,normal,normal,14,12,No Glucoma,1,4.43
+31,sita,52,Female,Brahmins,10,178,Smoker,No,2,2,normal,normal,16,18,No Glucoma,1,4.8
+32,tali maya,58,Female,Newars,13,189,Non Smoker,No,2,2,normal,normal,16,18,No Glucoma,1,5.4
+35,mohan maya,70,Female,Newars,15,123,Non Smoker,No,5,5,normal,normal,20,16,No Glucoma,1,4.4
+38,dil maya,81,Female,Newars,20,145,Non Smoker,No,6,6,normal,normal,15,14,No Glucoma,1,6.16
+41,das maya,66,Female,Newars,11,122,Non Smoker,No,2,2,normal,normal,21,18,No Glucoma,1,5.2
+42,sanu maya,50,Female,Newars,12,123,Smoker,No,1,1,normal,normal,17,17,No Glucoma,1,4.5
+44,tari maya,73,Female,Newars,15,120,Smoker,No,3,3,normal,normal,21,18,No Glucoma,1,4.97
+45,hira shova,60,Female,Newars,17,134,Smoker,No,3,3,normal,normal,13,17,No Glucoma,2,10.9
+46,kanchhi maya,78,Female,Newars,17,156,Smoker,No,3,6,normal,normal,12,12,No Glucoma,2,7
+47,mashini maya,63,Female,Newars,18,156,Smoker,No,3,6,normal,normal,19,20,No Glucoma,2,10
+49,aastha maya,71,Female,Newars,18,155,Smoker,No,3,3,normal,normal,20,20,No Glucoma,2,10
+55,krishna laxmi,62,Female,Newars,15,120,Smoker,No,2,4,normal,normal,17,18,No Glucoma,1,4.5
+60,aastha maya,66,Female,Newars,17,134,Smoker,No,4,4,normal,normal,12,19,No Glucoma,1,5.1
+61,battai,84,Female,Chhetry,17,156,Smoker,No,4,7,normal,normal,12,15,No Glucoma,2,9.1
+62,ratna maya,77,Female,Newars,18,156,Smoker,No,2,2,normal,normal,13,13,No Glucoma,1,3.5
+64,dil kumari,79,Female,Chhetry,18,155,Smoker,No,6,7,normal,normal,13,16,No Glucoma,1,4.5
+65,megh kumari,73,Female,Chhetry,15,120,Smoker,No,3,3,normal,normal,14,14,No Glucoma,2,7.14
+67,purna maya,59,Female,Newars,17,134,Smoker,No,7,7,normal,normal,21,20,No Glucoma,2,8.1
+69,purna maya,59,Female,Newars,17,156,Smoker,No,7,7,normal,normal,21,20,No Glucoma,2,8.3
+71,dirgha maya,95,Female,Chhetry,18,156,Smoker,No,7,7,normal,normal,16,16,No Glucoma,1,6
+72,nani maya,60,Female,Newars,18,155,Smoker,No,6,6,normal,normal,18,20,No Glucoma,1,6.13
+74,keshari maya,69,Female,Newars,18,156,Smoker,No,5,4,normal,normal,19,14,No Glucoma,1,6.8
+75,sun maya,51,Female,Newars,18,155,Smoker,No,2,2,normal,normal,12,12,No Glucoma,1,3.8
+76,maiya,50,Female,Newars,15,120,Smoker,No,1,1,normal,normal,13,12,No Glucoma,1,6.3
+80,sun maya,53,Female,Newars,17,134,Smoker,No,5,4,normal,normal,12,11,No Glucoma,1,6.3
+83,laxmi maya,59,Female,Brahmins,17,156,Smoker,No,3,3,normal,normal,18,18,No Glucoma,2,7.2
+84,thuli,55,Female,Newars,18,156,Smoker,No,1,1,normal,normal,11,10,No Glucoma,1,5.4
+86,kali maya,62,Female,Chhetry,18,155,Smoker,No,6,6,normal,normal,16,18,No Glucoma,2,7.6
+87,sun maya,72,Female,Others,15,120,Smoker,No,6,5,normal,normal,19,16,No Glucoma,2,7.2
+91,binita,50,Female,Brahmins,17,134,Smoker,No,2,2,normal,normal,14,12,No Glucoma,1,5.5
+92,juna,56,Female,Others,50,144,Smoker,Yes,1,1,normal,normal,18,10,No Glucoma,1,4.5
+93,karsang,61,Female,Others,51,145,Smoker,Yes,3,3,normal,normal,20,10,No Glucoma,1,3.8
+94,maya,52,Female,Brahmins,49,140,Smoker,Yes,1,1,normal,normal,11,11,No Glucoma,1,5.3
+96,hari maya,65,Female,Others,50,143,Smoker,Yes,5,5,normal,normal,14,10,No Glucoma,2,8.69
+99,surja maya,69,Female,Others,58,165,Smoker,Yes,5,6,normal,normal,14,11,No Glucoma,2,7.03
+100,gayatri,56,Female,Brahmins,51,145,Smoker,Yes,3,3,normal,normal,11,12,No Glucoma,1,5
+103,tatu,67,Female,Others,54,155,Non Smoker,Yes,4,5,normal,normal,20,18,No Glucoma,1,6.3
+104,kunchuk,69,Female,Others,55,156,Smoker,No,4,3,normal,normal,15,19,No Glucoma,1,6.3
+105,yangdon,69,Female,Others,58,167,Non Smoker,Yes,4,9,normal,normal,17,20,Glucoma Suspect with Catract,1,6
+106,kunsang,65,Female,Others,60,170,Non Smoker,No,4,3,normal,normal,15,17,No Glucoma,2,10.2
+107,naina,75,Female,Brahmins,47,134,Non Smoker,No,4,5,others,normal,10,14,No Glucoma,2,10.9
+108,katu,75,Female,Others,55,156,Non Smoker,Yes,4,4,normal,normal,19,17,No Glucoma,1,5
+109,kamala,50,Female,Chhetry,58,166,Smoker,Yes,3,4,normal,normal,14,18,No Glucoma,1,5.4
+110,chadon,55,Female,Others,50,144,Smoker,Yes,3,2,normal,normal,16,21,No Glucoma,2,6.5
+111,champa,65,Female,Chhetry,47,135,Smoker,Yes,6,6,normal,normal,15,19,No Glucoma,1,6.7
+113,lobsang,55,Female,Others,63,180,Smoker,Yes,2,2,normal,normal,18,14,No Glucoma,1,4
+114,chau,65,Female,Others,47,133,Smoker,Yes,6,6,normal,normal,11,14,No Glucoma,1,6.7
+116,dika,63,Female,Others,46,132,Non Smoker,No,3,3,normal,normal,13,17,No Glucoma,1,4.3
+120,khandro,65,Female,Others,46,131,Non Smoker,Yes,3,2,normal,normal,11,10,No Glucoma,2,10
+121,kunasang,60,Female,Others,51,145,Non Smoker,Yes,6,7,normal,normal,13,14,No Glucoma,2,9
+123,dil kumari,79,Female,Chhetry,50,144,Non Smoker,Yes,6,7,normal,normal,13,16,No Glucoma,2,5.5
+125,chojom,58,Female,Others,51,146,Non Smoker,No,2,2,normal,normal,16,18,No Glucoma,2,5
+126,prema,60,Female,Others,51,147,Non Smoker,No,1,2,normal,normal,17,15,No Glucoma,1,5.61
+127,bishnu,63,Female,Others,52,148,Smoker,Yes,3,4,normal,normal,18,18,No Glucoma,1,3.8
+128,dadom,59,Female,Others,52,149,Non Smoker,Yes,2,2,normal,normal,15,16,No Glucoma,1,8.5
+131,dolma,65,Female,Others,53,150,Smoker,Yes,6,6,normal,normal,14,12,No Glucoma,1,3.8
+132,mithu,54,Female,Chhetry,17,156,Smoker,Yes,3,2,normal,normal,12,14,No Glucoma,1,4.3
+133,champa,66,Female,Chhetry,16,158,Smoker,Yes,1,1,normal,normal,13,11,No Glucoma,2,7.7
+134,anita,56,Female,Chhetry,21,150,Smoker,Yes,1,2,normal,normal,13,15,No Glucoma,1,4
+136,ratna maya,56,Female,Chhetry,18,145,Smoker,No,3,3,normal,normal,20,14,No Glucoma,1,4
+137,dirdha maya,95,Female,Chhetry,20,158,Smoker,Yes,7,7,normal,normal,16,16,No Glucoma,1,6.4
+138,nani maya,60,Female,Newars,15,150,Smoker,Yes,6,6,normal,normal,18,20,No Glucoma,1,4.9
+156,shanti maya,60,Female,Others,17,143,Smoker,Yes,7,8,normal,normal,14,15,No Glucoma,1,7.5
+158,mina,60,Female,Brahmins,17,142,Smoker,No,2,4,normal,normal,11,14,No Glucoma,1,3.8
+166,lopsang,50,Female,Others,16,151,Smoker,Yes,2,2,normal,normal,18,14,No Glucoma,1,5.8
+167,chau,66,Female,Others,14,153,Smoker,Yes,5,6,normal,normal,11,14,No Glucoma,1,4
+169,dika,57,Female,Others,21,164,Smoker,Yes,2,3,normal,normal,13,14,No Glucoma,1,5.9
+170,lama,62,Female,Others,20,161,Non Smoker,No,3,3,normal,normal,15,19,No Glucoma,2,9
+171,dejing,65,Female,Others,16,160,Non Smoker,No,3,4,normal,normal,17,18,No Glucoma,2,8.5
+173,khandro,63,Female,Others,12,162,Non Smoker,No,3,3,normal,normal,13,10,No Glucoma,1,6
+174,kunasang,64,Female,Others,16,178,Non Smoker,Yes,6,7,normal,normal,18,14,No Glucoma,1,5.16
+175,amsuri,60,Female,Others,13,176,Non Smoker,No,6,2,normal,normal,16,13,No Glucoma,2,9.4
+176,shiv kumari,69,Female,Others,12,145,Non Smoker,Yes,6,6,normal,normal,13,13,No Glucoma,2,7.8
+178,chojom,52,Female,Others,15,166,Smoker,No,2,2,normal,normal,18,18,No Glucoma,1,6.1
+179,dika,51,Female,Others,18,156,Smoker,Yes,1,1,normal,normal,17,16,No Glucoma,1,6.5
+180,losang,55,Female,Others,12,146,Smoker,No,2,2,normal,normal,18,15,No Glucoma,1,5.9
+181,chodum,57,Female,Others,18,167,Smoker,Yes,5,5,normal,normal,11,14,No Glucoma,1,5.4
+183,dika,53,Female,Others,18,134,Smoker,Yes,2,2,normal,normal,12,14,No Glucoma,2,8.1
+184,lama,62,Female,Others,15,157,Smoker,Yes,3,2,normal,normal,15,16,No Glucoma,2,8
+185,desing,64,Female,Others,13,180,Smoker,Yes,3,3,normal,normal,17,18,No Glucoma,2,8.4
+186,surili,54,Female,Others,12,143,Smoker,Yes,1,1,normal,normal,16,18,No Glucoma,2,8.3
+187,bhawana,50,Female,Newars,19,138,Smoker,No,1,1,normal,normal,16,15,No Glucoma,2,10.7
+250,krishna kumari,62,Female,Newars,10,167,Smoker,No,7,3,normal,normal,12,16,No Glucoma,2,7.6
+251,tulsi maya,60,Female,Newars,17,177,Smoker,Yes,5,5,normal,normal,16,16,No Glucoma,1,5.5
+252,kam kumari,60,Female,Newars,15,166,Smoker,Yes,7,4,normal,normal,21,21,No Glucoma,1,5.8
+253,devi,50,Female,Others,12,155,Smoker,No,3,2,normal,normal,12,20,No Glucoma,1,5.5
+254,aastha maya,65,Female,Newars,17,144,Smoker,No,5,1,normal,normal,20,20,No Glucoma,2,10
+255,rishna maya,77,Female,Newars,13,189,Smoker,Yes,2,2,normal,normal,11,13,No Glucoma,2,10.7
+257,daya laxmi,62,Female,Newars,17,167,Smoker,Yes,5,5,normal,normal,15,14,No Glucoma,2,8.1
+258,gyanu maya,56,Female,Newars,14,145,Non Smoker,No,1,1,normal,normal,19,16,No Glucoma,1,6.2
+259,dharma laxmi,65,Female,Newars,19,167,Non Smoker,Yes,2,2,normal,normal,18,18,No Glucoma,2,7.1
+260,bishnu,57,Female,Newars,12,145,Non Smoker,No,3,3,normal,normal,17,15,No Glucoma,2,7.2
+263,dil maya,81,Female,Newars,19,167,Non Smoker,No,2,3,normal,normal,12,13,No Glucoma,1,6.5
+265,surja maya,51,Female,Newars,13,144,Non Smoker,No,2,2,normal,normal,12,12,No Glucoma,2,8
+266,laxmi,51,Female,Newars,17,134,Non Smoker,No,2,3,normal,normal,15,17,No Glucoma,1,6
+269,mann keshari,52,Female,Newars,18,145,Smoker,No,2,2,normal,normal,18,14,No Glucoma,2,8.2
+272,ganesh maya,65,Female,Newars,13,156,Non Smoker,No,2,1,normal,normal,13,12,No Glucoma,1,5.2
+274,gyan laxmi,58,Female,Newars,18,156,Smoker,No,2,3,normal,normal,14,16,No Glucoma,2,9.8
+275,nani chari,70,Female,Newars,15,189,Smoker,No,4,5,normal,normal,18,18,No Glucoma,1,4.9
+277,laxmi,56,Female,Newars,11,145,Smoker,Yes,1,7,normal,normal,13,12,Others,1,4.43
+279,dirgha laxmi,63,Female,Newars,15,167,Smoker,Yes,4,5,normal,normal,13,13,No Glucoma,1,4.8
+281,aastha laxmi,52,Female,Newars,18,145,Smoker,No,1,1,normal,normal,19,15,No Glucoma,1,5.4
+283,tulsi maya,52,Female,Newars,11,134,Smoker,Yes,2,2,normal,normal,16,19,No Glucoma,1,4.4
+284,chand laxmi,72,Female,Others,24,178,Smoker,No,4,2,normal,normal,17,17,No Glucoma,1,6.16
+285,chari maya,87,Female,Newars,13,134,Smoker,Yes,4,3,normal,normal,14,12,No Glucoma,1,5.2
+286,moni maya,50,Female,Newars,11,130,Smoker,No,1,1,normal,normal,14,12,No Glucoma,1,4.5
+287,purneshwari,60,Female,Newars,13,155,Smoker,Yes,4,4,normal,normal,17,19,No Glucoma,1,4.97
+288,sanu maya,65,Female,Newars,18,134,Smoker,No,3,6,normal,normal,21,21,No Glucoma,2,10.9
+289,sher maya,70,Female,Newars,11,129,Smoker,No,5,4,normal,normal,15,18,No Glucoma,2,7
+290,bishnu maya,88,Female,Newars,10,128,Non Smoker,No,5,5,normal,normal,16,17,No Glucoma,2,10
+291,kedar laxmi,62,Female,Newars,20,130,Non Smoker,No,1,1,normal,normal,12,13,No Glucoma,2,10
+292,chandra maya,75,Female,Newars,14,125,Non Smoker,No,5,4,normal,normal,13,15,No Glucoma,1,4.5
+294,mukti maya,74,Female,Newars,13,135,Non Smoker,Yes,2,5,normal,normal,17,17,No Glucoma,1,5.1
+297,sundari,74,Female,Newars,19,126,Non Smoker,No,1,2,normal,normal,18,20,No Glucoma,2,9.1
+298,laxmi,50,Female,Newars,11,122,Non Smoker,Yes,1,1,normal,normal,18,19,No Glucoma,1,3.5
+300,mangla maya,65,Female,Newars,18,156,Smoker,No,2,2,normal,normal,18,18,No Glucoma,1,4.5
+302,moti maya,67,Female,Newars,13,134,Smoker,No,2,3,normal,normal,19,20,No Glucoma,2,7.14
+304,harikrishna maya,66,Female,Newars,13,123,Smoker,No,2,1,normal,normal,13,11,No Glucoma,2,8.1
+305,sabitri,54,Female,Newars,12,135,Smoker,Yes,2,1,normal,normal,15,14,No Glucoma,2,8.3
+306,ratna keshari,58,Female,Newars,10,178,Smoker,No,1,1,normal,normal,14,16,No Glucoma,1,6
+309,harikrishna maya,81,Female,Newars,13,189,Non Smoker,No,2,1,normal,normal,13,11,No Glucoma,1,6.13
+310,laxmi,58,Female,Brahmins,15,123,Non Smoker,No,1,7,normal,normal,15,13,No Glucoma,1,6.8
+311,krishna kumari,57,Female,Newars,20,145,Non Smoker,No,2,2,normal,normal,15,15,No Glucoma,1,3.8
+312,kamala,50,Female,Newars,11,122,Non Smoker,No,1,1,normal,normal,12,15,No Glucoma,1,6.3
+313,anjana,50,Female,Brahmins,12,123,Smoker,No,1,1,normal,normal,18,19,No Glucoma,1,6.3
+315,purna laxmi,63,Female,Newars,15,120,Smoker,No,2,2,normal,normal,17,17,No Glucoma,2,7.2
+318,dhan maya,50,Female,Newars,17,134,Smoker,No,1,1,normal,normal,11,15,No Glucoma,1,5.4
+320,krishna laxmi,55,Female,Newars,17,156,Smoker,No,1,1,normal,normal,14,16,No Glucoma,2,7.6
+321,netra kumari,55,Female,Newars,18,156,Smoker,No,1,2,normal,normal,18,18,No Glucoma,2,7.2
+323,kumari,72,Female,Newars,18,155,Smoker,No,2,2,normal,normal,18,16,No Glucoma,1,5.5
+324,hari maya,67,Female,Newars,15,120,Smoker,No,2,3,normal,normal,14,13,No Glucoma,1,4.5
+327,purna maya,60,Female,Newars,17,134,Smoker,No,4,3,normal,normal,15,21,No Glucoma,1,3.8
+328,dhan maya,72,Female,Newars,17,156,Smoker,No,2,2,normal,normal,16,17,No Glucoma,1,5.3
+331,din maya,67,Female,Newars,18,156,Smoker,No,3,7,normal,normal,14,16,No Glucoma,2,8.69
+332,pritha maya,59,Female,Newars,18,155,Smoker,No,2,2,normal,normal,16,20,No Glucoma,2,7.03
+333,pancha keshari,61,Female,Newars,15,120,Smoker,No,1,1,normal,normal,15,18,No Glucoma,1,5
+335,keshari maya,74,Female,Newars,17,134,Smoker,No,5,8,normal,normal,15,13,No Glucoma,1,6.3
+336,baikuntha maya,64,Female,Newars,17,156,Smoker,No,1,1,normal,normal,17,16,No Glucoma,1,6.3
+337,krishna maya,56,Female,Newars,18,156,Smoker,No,7,1,normal,normal,21,21,No Glucoma,1,6
+338,beti maya,66,Female,Newars,18,155,Smoker,No,2,2,normal,normal,16,18,No Glucoma,2,10.2
+339,kancchi,63,Female,Others,18,156,Smoker,No,7,7,normal,normal,19,17,No Glucoma,2,10.9
+341,chandra laxmi,67,Female,Newars,18,155,Smoker,No,2,4,normal,normal,18,21,No Glucoma,1,5
+342,krishna laxmi,64,Female,Newars,15,120,Smoker,No,2,7,normal,normal,13,16,No Glucoma,1,5.4
+344,hari maya,60,Female,Newars,17,134,Smoker,No,2,2,normal,normal,16,15,No Glucoma,2,6.5
+345,laxmi devi,72,Female,Newars,17,156,Smoker,No,2,2,normal,normal,12,12,No Glucoma,1,6.7
+349,kirti maya,62,Female,Newars,18,156,Smoker,No,2,4,normal,normal,13,14,No Glucoma,1,4
+353,ratna maya,80,Female,Newars,18,155,Smoker,No,3,5,normal,normal,16,14,No Glucoma,1,6.7
+360,maya devi,60,Female,Newars,15,120,Smoker,No,2,2,normal,normal,15,15,No Glucoma,1,4.3
+361,chandra maya,66,Female,Newars,17,134,Smoker,No,4,4,normal,normal,15,15,No Glucoma,2,10
+362,gyani maya,60,Female,Newars,50,144,Smoker,Yes,2,2,normal,normal,21,20,No Glucoma,2,9
+366,laxmi keshari,70,Female,Newars,51,145,Smoker,Yes,4,7,normal,normal,18,15,No Glucoma,2,5.5
+367,kanchhi,50,Female,Others,49,140,Smoker,Yes,1,1,normal,normal,21,20,No Glucoma,2,5
+368,surya maya,66,Female,Newars,50,143,Smoker,Yes,2,2,normal,normal,16,19,No Glucoma,1,5.61
+370,sundari,53,Female,Newars,58,165,Smoker,Yes,2,1,normal,normal,14,14,No Glucoma,1,3.8
+371,chaita maya,62,Female,Newars,51,145,Smoker,Yes,2,2,normal,normal,15,13,No Glucoma,1,8.5
+372,asha maya,63,Female,Newars,54,155,Non Smoker,Yes,3,3,normal,normal,14,15,No Glucoma,1,3.8
+373,tej laxmi,67,Female,Newars,55,156,Smoker,No,1,1,normal,normal,15,15,No Glucoma,1,4.3
+374,moti maya,62,Female,Newars,58,167,Non Smoker,Yes,4,3,normal,normal,13,16,No Glucoma,2,7.7
+376,kanchhi,50,Female,Newars,60,170,Non Smoker,No,7,2,normal,normal,15,16,No Glucoma,1,4
+377,mangal maya,54,Female,Newars,47,134,Non Smoker,No,3,2,normal,normal,12,11,No Glucoma,1,4
+378,mahalaxmi,51,Female,Newars,55,156,Non Smoker,Yes,2,2,normal,normal,12,13,No Glucoma,1,6.4
+380,mann laxmi,60,Female,Newars,58,166,Smoker,Yes,1,1,normal,normal,14,17,No Glucoma,1,4.9
+381,krishna laxmi,66,Female,Newars,50,144,Smoker,Yes,3,2,normal,normal,12,14,No Glucoma,1,7.5
+383,ganesh laxmi,70,Female,Newars,47,135,Smoker,Yes,2,4,normal,normal,13,19,No Glucoma,1,3.8
+386,khina maya,60,Female,Others,63,180,Smoker,Yes,3,3,normal,normal,16,16,No Glucoma,1,5.8
+387,renuka,60,Female,Brahmins,47,133,Smoker,Yes,7,7,normal,normal,17,17,No Glucoma,1,4
+388,krishna maya,70,Female,Newars,46,132,Non Smoker,No,7,7,normal,normal,15,13,No Glucoma,1,5.9
+389,tirtha maya,52,Female,Brahmins,46,131,Non Smoker,Yes,4,6,normal,normal,14,15,No Glucoma,2,9
+390,pabi maya,62,Female,Others,51,145,Non Smoker,Yes,7,6,normal,normal,15,17,No Glucoma,2,8.5
+502,jag maya,52,Female,Chhetry,50,144,Non Smoker,Yes,4,2,normal,normal,11,15,No Glucoma,1,6
+503,sukha maya,59,Female,Others,51,146,Non Smoker,No,4,4,normal,normal,12,13,No Glucoma,1,5.16
+505,sharada,50,Female,Others,51,147,Non Smoker,No,2,3,normal,normal,18,17,No Glucoma,2,9.4
+1,chana maya,68,Female,Brahmins,52,148,Smoker,Yes,3,6,normal,normal,13,20,Glucoma Suspect,2,7.8
+2,chana maya,68,Female,Brahmins,52,149,Non Smoker,Yes,3,6,normal,normal,13,20,Glucoma Suspect,1,6.1
+7,chandra maya,60,Female,Newars,53,150,Smoker,Yes,7,3,normal,normal,12,14,Glucoma Suspect with Catract,1,6.5
+8,bishnu,63,Female,Others,17,156,Smoker,Yes,3,7,normal,normal,14,12,Glucoma Suspect with Catract,1,5.9
+10,sundari,75,Female,Newars,16,158,Smoker,Yes,7,7,normal,normal,16,16,Glucoma Suspect,1,5.4
+14,chandra maya,51,Female,Newars,21,150,Smoker,Yes,4,3,normal,normal,15,11,Glucoma Suspect,2,8.1
+17,chana maya,64,Female,Newars,18,145,Smoker,No,6,5,normal,normal,18,17,Glucoma Suspect with Catract,2,8
+19,tulsi maya,70,Female,Newars,20,158,Smoker,Yes,7,3,normal,normal,22,21,Glucoma Suspect with Catract,2,8.4
+20,tulsi krishna,69,Female,Newars,15,150,Smoker,Yes,4,8,normal,normal,17,19,Glucoma Suspect,2,8.3
+37,krishna maya,71,Female,Newars,17,143,Smoker,Yes,7,4,normal,normal,11,10,Glucoma Suspect with Catract,2,10.7
+43,govinda maiya,73,Female,Newars,17,142,Smoker,No,7,8,others,others,14,31,Glucoma Suspect,2,7.6
+56,tulsi maya,66,Female,Newars,16,151,Smoker,Yes,5,7,normal,normal,15,14,Glucoma Suspect with Catract,1,5.5
+58,kanchhi maya,60,Female,Newars,14,153,Smoker,Yes,7,7,normal,normal,13,13,Glucoma Suspect with Catract,1,5.8
+59,nani maya,75,Female,Newars,21,164,Smoker,Yes,2,7,normal,normal,16,18,Glucoma Suspect with Catract,1,5.5
+122,chamsuri,60,Female,Others,20,161,Non Smoker,No,9,2,normal,normal,12,13,Glucoma Suspect with Catract,2,10
+139,pema,82,Female,Others,16,160,Non Smoker,No,7,7,normal,normal,17,18,Glucoma Suspect with Catract,2,10.7
+140,kungsan,62,Female,Others,12,162,Non Smoker,No,3,3,normal,normal,12,17,Glucoma Suspect,2,8.1
+142,chhiring,62,Female,Others,16,178,Non Smoker,Yes,7,7,normal,normal,17,20,Glucoma Suspect with Catract,1,6.2
+143,sangyung,63,Female,Others,13,176,Non Smoker,No,6,7,normal,normal,18,15,Glucoma Suspect with Catract,2,7.1
+144,chung,71,Female,Others,12,145,Non Smoker,Yes,3,2,normal,normal,17,19,Glucoma Suspect,2,7.2
+145,ani,60,Female,Others,15,166,Smoker,No,6,5,normal,normal,20,20,Glucoma Suspect with Catract,1,6.5
+146,choezom,64,Female,Others,18,156,Smoker,Yes,3,3,normal,normal,16,14,Glucoma Suspect,2,8
+148,pushpa,60,Female,Chhetry,12,146,Smoker,No,4,4,normal,normal,17,20,Glucoma Suspect,1,6
+150,dambar kumar,68,Female,Chhetry,18,167,Smoker,Yes,7,7,normal,normal,15,14,Glucoma Suspect with Catract,2,8.2
+153,bhagwati,60,Female,Chhetry,18,134,Smoker,Yes,3,3,normal,normal,16,17,Glucoma Suspect,1,5.2
+160,yangdon,69,Female,Others,15,157,Smoker,Yes,4,9,normal,normal,17,20,Glucoma Suspect with Catract,2,9.8
+163,mohan devi,70,Female,Newars,13,180,Smoker,Yes,7,7,normal,normal,18,28,Glucoma Suspect with Catract,1,4.9
+248,krishna maya,65,Female,Newars,12,143,Smoker,Yes,9,7,normal,normal,14,14,Glucoma Suspect with Catract,1,4.43
+264,kanchhi,60,Female,Newars,19,138,Smoker,No,7,8,normal,normal,18,18,Glucoma Suspect with Catract,1,4.8
+293,hira maya,50,Female,Newars,10,167,Smoker,No,6,7,normal,normal,16,13,Glucoma Suspect with Catract,1,5.4
+296,potali maya,76,Female,Newars,17,177,Smoker,Yes,9,4,normal,normal,15,18,Glucoma Suspect with Catract,1,4.4
+314,chana maya,61,Female,Newars,15,166,Smoker,Yes,5,9,normal,normal,17,18,Glucoma Suspect with Catract,1,6.16
+325,surya maya,76,Female,Newars,12,155,Smoker,No,2,7,normal,normal,12,11,Glucoma Suspect with Catract,1,5.2
+334,kanchhi,77,Female,Newars,17,144,Smoker,No,5,6,normal,normal,14,16,Glucoma Suspect with Catract,1,4.5
+340,chhuni maya,90,Female,Newars,13,189,Smoker,Yes,8,7,normal,normal,15,15,Glucoma Suspect with Catract,1,4.97
+375,laxmi,50,Female,Newars,17,167,Smoker,Yes,6,7,normal,normal,18,17,Glucoma Suspect with Catract,2,10.9
+382,krishna maya,68,Female,Newars,14,145,Non Smoker,No,9,9,normal,normal,12,14,Glucoma Suspect with Catract,2,7
+384,dil maya,90,Female,Newars,19,167,Non Smoker,Yes,6,6,normal,normal,20,21,Glucoma Suspect with Catract,2,10
+478,tashi,72,Female,Others,12,145,Non Smoker,No,9,7,normal,normal,42,23,Glucoma Suspect with Catract,2,10
+479,harikrishna maya,80,Female,Newars,19,167,Non Smoker,No,9,8,others,others,50,16,Glucoma Suspect,1,4.5
+188,doma,51,Female,Others,13,144,Non Smoker,No,7,7,normal,normal,10,13,No Glucoma,1,5.1
+322,nani chhori,66,Female,Brahmins,17,134,Non Smoker,No,1,9,normal,normal,18,17,Others,2,9.1
+4,chana maya,68,Female,Brahmins,18,145,Smoker,No,5,9,normal,normal,15,16,Glucoma Suspect with Catract,1,3.5
+189,sita,58,Female,Brahmins,13,156,Non Smoker,No,3,3,normal,normal,14,15,No Glucoma,1,4.5
+191,karsang,61,Female,Others,18,156,Smoker,No,3,3,normal,normal,20,10,No Glucoma,2,7.14
+192,dhan maya,50,Female,Others,15,189,Smoker,No,1,1,normal,normal,11,15,No Glucoma,2,8.1
+194,phul maya,70,Female,Others,11,145,Smoker,Yes,5,5,normal,normal,14,10,No Glucoma,2,8.3
+196,kanchhi,68,Female,Others,15,167,Smoker,Yes,2,9,normal,normal,10,10,No Glucoma,1,6
+197,nakalli,76,Female,Newars,18,145,Smoker,No,6,4,normal,normal,18,20,No Glucoma,1,6.13
+198,laxmi,65,Female,Newars,11,134,Smoker,Yes,2,2,normal,normal,14,11,No Glucoma,1,6.8
+199,sabitri,65,Female,Brahmins,24,178,Smoker,No,2,2,normal,normal,10,10,No Glucoma,1,3.8
+200,suku maya,58,Female,Others,13,134,Smoker,Yes,2,2,normal,normal,14,21,No Glucoma,1,6.3
+201,purna laxmi,50,Female,Newars,11,130,Smoker,No,1,1,normal,normal,14,10,No Glucoma,1,6.3
+202,chasing,65,Female,Others,13,155,Smoker,Yes,4,2,normal,normal,11,13,No Glucoma,2,7.2
+203,salina,50,Female,Brahmins,18,134,Smoker,No,1,1,normal,normal,18,14,No Glucoma,1,5.4
+205,kanchhi maya,70,Female,Others,11,129,Smoker,No,2,2,normal,normal,13,13,No Glucoma,2,7.6
+207,laxmi,52,Female,Brahmins,10,128,Non Smoker,No,1,1,normal,normal,15,14,No Glucoma,2,7.2
+208,kanchhi,66,Female,Others,20,130,Non Smoker,No,3,7,normal,normal,12,13,No Glucoma,1,5.5
+209,sun kesharai,63,Female,Newars,14,125,Non Smoker,No,7,6,normal,normal,15,16,No Glucoma,1,4.5
+210,apsara,50,Female,Newars,13,135,Non Smoker,Yes,3,3,normal,normal,15,16,No Glucoma,1,3.8
+211,laxmi,61,Female,Brahmins,19,126,Non Smoker,No,2,2,normal,normal,11,12,No Glucoma,1,5.3
+213,tara,60,Female,Brahmins,11,122,Non Smoker,Yes,1,1,normal,normal,15,12,No Glucoma,2,8.69
+214,dharma kumari,62,Female,Others,18,156,Smoker,No,3,4,normal,normal,10,11,No Glucoma,2,7.03
+216,satyamati,60,Female,Chhetry,13,134,Smoker,No,1,1,normal,normal,16,17,No Glucoma,1,5
+217,dikki doma,78,Female,Others,13,123,Smoker,No,7,8,normal,normal,15,15,No Glucoma,1,6.3
+218,sita kumari,60,Female,Chhetry,12,135,Smoker,Yes,3,4,normal,normal,14,13,No Glucoma,1,6.3
+219,dhan maya,79,Female,Newars,10,178,Smoker,No,7,8,normal,normal,20,17,No Glucoma,1,6
+221,lila maya,66,Female,Chhetry,13,189,Non Smoker,No,3,7,normal,normal,11,12,No Glucoma,2,10.2
+222,sanu kanchhi,70,Female,Others,15,123,Non Smoker,No,3,7,normal,normal,12,14,No Glucoma,2,10.9
+223,manjuri,70,Female,Others,20,145,Non Smoker,No,3,7,normal,normal,14,17,No Glucoma,1,5
+224,maili,60,Female,Others,11,122,Non Smoker,No,3,7,normal,normal,13,17,No Glucoma,1,5.4
+227,jeet kumari,51,Female,Others,12,123,Smoker,No,3,2,normal,normal,15,17,No Glucoma,2,6.5
+232,mala,57,Female,Newars,15,120,Smoker,No,2,2,normal,normal,20,17,No Glucoma,1,6.7
+234,dharma kumari,62,Female,Newars,17,134,Smoker,No,6,6,normal,normal,15,12,No Glucoma,1,4
+235,suk maya,58,Female,Others,17,156,Smoker,No,4,3,normal,normal,19,11,No Glucoma,1,6.7
+237,sita maya,60,Female,Others,18,156,Smoker,No,5,5,normal,normal,15,18,No Glucoma,1,4.3
+239,sharmila,50,Female,Chhetry,18,155,Smoker,No,1,1,normal,normal,12,12,No Glucoma,2,10
+240,bhagwati,50,Female,Chhetry,15,120,Smoker,No,1,1,normal,normal,18,16,No Glucoma,2,9
+241,roop maya,57,Female,Brahmins,17,134,Smoker,No,2,2,normal,normal,14,11,No Glucoma,2,5.5
+243,krishna kumari,61,Female,Brahmins,17,156,Smoker,No,5,4,normal,normal,12,12,No Glucoma,2,5
+244,man kumari,65,Female,Others,18,156,Smoker,No,7,6,normal,normal,17,19,No Glucoma,1,5.61
+246,shushila,50,Female,Newars,18,155,Smoker,No,2,2,normal,normal,16,15,No Glucoma,1,3.8
+393,aspuri,67,Female,Others,15,120,Smoker,No,3,3,normal,normal,16,20,No Glucoma,1,8.5
+396,chhal kumari,65,Female,Brahmins,17,134,Smoker,No,2,3,normal,normal,14,18,No Glucoma,1,3.8
+397,tara,61,Female,Others,17,156,Smoker,No,4,4,normal,normal,16,17,No Glucoma,1,4.3
+400,ratna maya,60,Female,Chhetry,18,156,Smoker,No,5,6,normal,normal,14,14,No Glucoma,2,7.7
+401,ichhuka,52,Female,Others,18,155,Smoker,No,2,2,normal,normal,13,15,No Glucoma,1,4
+402,mishra maya,60,Female,Others,18,156,Smoker,No,3,3,normal,normal,21,19,No Glucoma,1,4
+414,gyan kumari,60,Female,Brahmins,18,155,Smoker,No,2,2,normal,normal,20,19,No Glucoma,1,6.4
+415,mithu maya,64,Female,Chhetry,15,120,Smoker,No,3,7,normal,normal,12,13,No Glucoma,1,4.9
+416,man kumari,60,Female,Brahmins,17,134,Smoker,No,3,3,normal,normal,14,15,No Glucoma,1,7.5
+417,durga maya,66,Female,Others,17,156,Smoker,No,3,3,normal,normal,14,16,No Glucoma,1,3.8
+418,ratna maya,60,Female,Others,18,156,Smoker,No,3,3,normal,normal,16,16,No Glucoma,1,5.8
+419,krishna maya,85,Female,Chhetry,18,155,Smoker,No,7,8,normal,normal,16,14,No Glucoma,1,4
+422,shiv maya,64,Female,Others,15,120,Smoker,No,3,9,normal,normal,12,12,Glucoma Suspect with Catract,1,5.9
+424,bed kumari,80,Female,Brahmins,17,134,Smoker,No,7,7,normal,normal,13,14,No Glucoma,2,9
+428,rana maya,65,Female,Newars,50,144,Smoker,Yes,7,7,normal,normal,11,13,No Glucoma,2,8.5
+430,bishnu maya,60,Female,Chhetry,51,145,Smoker,Yes,3,3,normal,normal,14,14,No Glucoma,1,6
+432,chini maya,60,Female,Brahmins,49,140,Smoker,Yes,3,1,normal,normal,13,14,No Glucoma,1,5.16
+438,tanka maya,56,Female,Others,50,143,Smoker,Yes,3,2,normal,normal,18,21,No Glucoma,2,9.4
+439,chandra bahadur,53,Female,Others,58,165,Smoker,Yes,7,7,normal,normal,14,18,No Glucoma,2,7.8
+440,som maya,73,Female,Others,51,145,Smoker,Yes,6,6,normal,normal,12,14,No Glucoma,1,6.1
+441,januka,76,Female,Others,54,155,Non Smoker,Yes,6,6,normal,normal,13,14,No Glucoma,1,6.5
+442,bhum maya,61,Female,Others,55,156,Smoker,No,3,3,normal,normal,13,14,No Glucoma,1,5.9
+446,tanka kumari,64,Female,Brahmins,58,167,Non Smoker,Yes,3,4,normal,normal,14,12,No Glucoma,1,5.4
+447,bishnu maya,70,Female,Chhetry,60,170,Non Smoker,No,5,5,normal,normal,21,18,No Glucoma,2,8.1
+448,bishnu maya,51,Female,Others,47,134,Non Smoker,No,1,1,normal,normal,21,21,No Glucoma,2,8
+449,bhav maya,61,Female,Others,55,156,Non Smoker,Yes,3,3,normal,normal,13,16,No Glucoma,2,8.4
+451,mithu maya,65,Female,Others,58,166,Smoker,Yes,3,4,normal,normal,12,17,No Glucoma,2,8.3
+452,adi maya,75,Female,Others,50,144,Smoker,Yes,6,5,normal,normal,12,17,No Glucoma,2,10.7
+453,mann devi,63,Female,Brahmins,47,135,Smoker,Yes,3,7,normal,normal,16,16,No Glucoma,2,7.6
+459,dhan maya,52,Female,Others,63,180,Smoker,Yes,3,3,normal,normal,15,15,No Glucoma,1,5.5
+460,bhima maya,65,Female,Others,47,133,Smoker,Yes,5,5,normal,normal,13,15,No Glucoma,1,5.8
+464,nanda maya,58,Female,Chhetry,46,132,Non Smoker,No,3,3,normal,normal,16,17,No Glucoma,1,5.5
+470,san kumari,65,Female,Others,46,131,Non Smoker,Yes,7,7,normal,normal,16,20,No Glucoma,2,10
+473,radha,70,Female,Chhetry,51,145,Non Smoker,Yes,6,3,normal,normal,23,24,No Glucoma,2,10.7
+480,khadga kumari,80,Female,Chhetry,50,144,Non Smoker,Yes,4,5,normal,normal,21,19,No Glucoma,2,8.1
+482,danta maya,62,Female,Others,51,146,Non Smoker,No,7,7,normal,normal,21,14,No Glucoma,1,6.2
+484,sarada,66,Female,Brahmins,51,147,Non Smoker,No,3,3,normal,normal,18,18,No Glucoma,2,7.1
+489,aastha maya,59,Female,Others,52,148,Smoker,Yes,2,2,normal,normal,17,18,No Glucoma,2,7.2
+492,sirsa maya,55,Female,Others,52,149,Non Smoker,Yes,2,2,normal,normal,19,20,No Glucoma,1,5.8
+494,jeet kumari,52,Female,Brahmins,53,150,Smoker,Yes,2,2,normal,normal,10,10,No Glucoma,1,5.5
+495,thuli,62,Female,Others,17,156,Smoker,Yes,5,5,normal,normal,11,15,No Glucoma,2,10
+498,sita maya,60,Female,Newars,16,158,Smoker,Yes,6,6,normal,normal,15,17,No Glucoma,2,10.7
+500,nar maya,54,Female,Brahmins,21,150,Smoker,Yes,2,2,normal,normal,12,12,No Glucoma,2,8.1

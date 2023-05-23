@@ -1,0 +1,128 @@
+kidney1=read.csv("C:/bijay/R practice/kidney.csv")
+kidney1
+head(kidney1,2)
+tail(kidney1)
+kidney1$Age
+Age
+attach(kidney1)
+## Decoding number into character
+kidney1$sex1[kidney1$Sex==1]="Male"
+kidney1$sex1[kidney1$Sex==2]="Female"
+## coding the character into number
+edit(kidney1)
+kidney2=kidney1[-1]
+kidney1$sex2[kidney1$sex1=="Male"]=1
+kidney1$sex2[kidney1$sex1=="Female"]=2
+cbind(table(kidney1$sex1))
+summary(kidney)
+aggregate(kidney1$Age~kidney$sex1,function="mean" )
+?aggregate
+## Plot graph using ggplot2 ########
+library(ggplot2)
+#-----------------------------------------------------------------------
+#       PART ONE: Grammar of ggplot: layers, aesthetic & geom
+#-----------------------------------------------------------------------
+# Making the first ggplot layer for a scatter diagram
+ggplot(data = kidney1, aes(x=Age, y=Height))
+ggplot(kidney1, aes(Age,Height))
+
+# adding the 2nd layer
+ggplot(kidney1, aes(Age, Height))
++geom_point()  
+
+# adding the 3rd layer
+ggplot(data = kidney1, aes(x=Age, y=Height))+
+  geom_point()+
+  geom_smooth(se=F) 
+
+# adding the 3rd layer
+ggplot(data = kidney1, aes(x=Age, y=Height))+
+  geom_point()+
+  geom_smooth(method=lm, se=T) 
+
+# adding the 4rd layer
+ggplot(data = kidney1, aes(x=Age, y=Height))+
+  geom_point(color="yellow")+
+  geom_smooth(method=lm, se=F, color="red")  +
+  ggtitle("Scatter plot of Age & Height \n with Line of best fit", 
+          subtitle = "Kidney Study")
+
+#-------------------------------------------------------------------
+# 'aesthetic(aes)' is used for coordinates, color, size, shape
+# while 'geom' specify the plotting geometry & 
+# makes universal control of the aesthetics 
+#---------------------------------------------------------------------------
+head(kidney,1)
+ggplot(data = kidney1, aes(Age, Height, color=sex1))+geom_point()+guides(fill=FALSE)
+ggplot(data = kidney, aes(Age, Height, shape=sex1))+geom_point()
+ggplot(data = kidney1, aes(Age, Height, color=sex1))+geom_point(size=2)
+ggplot(data = kidney, aes(Age, Height, color=Weight))+geom_point()
+#---------------------------------------------------------------------------
+#--------------------------------------------------------------------------
+# adding smoothing curves and adjusting title/subtitle x/y axis lables
+ggplot(data = kidney1, aes(Age, Height, color=sex1, 
+                  color=c("red","yellow")))+geom_point()+geom_smooth(se=F)
+
+ggplot(data = kidney1, aes(Age, Height, color=sex1))+
+  geom_point()+geom_smooth(se=F)
+plot1<-ggplot(data = kidney1, aes(Age, Height, color=sex1))+geom_point()+geom_smooth(se=F)
+plot1+geom_point(shape=6,size=0.5,color="black")+ 
+  labs(color = "Gender", title="Scatter plot of Age and height of patients",
+       subtitle=" curve fitting", caption="Source: Kidney Data")+
+  xlab("Age of Patient")+ ylab("Height in CM")+
+  theme(plot.title = element_text(color = "red", size = 12, face = "bold"))
+#-----------------------------------------------------------------------------
+#     PART Two: Histogram and density plots 
+#-----------------------------------------------------------------------------
+#   Histograms  
+ggplot(kidney1, aes(Age))+
+  geom_histogram(fill="yellow", color="black",
+                 binwidth = 4)
+
+ggplot(kidney1, aes(x=Age))+ geom_histogram(fill="red", color="black")+geom_density()
+ggplot(kidney, aes(x=Age))+ geom_histogram(binwidth =10)
+ggplot(kidney1, aes(x=Age))+geom_freqpoly(binwidth=10)
+
+
+#  density plots
+ggplot(kidney1, aes(x=Age))+ geom_density(fill="blue",alpha=0.1)
+ggplot(kidney, aes(x=Age))+geom_density(kernel = "rectangular")
+ggplot(kidney1, aes(x=Age, fill=sex1))+geom_density(kernel = "triangular", alpha=0.5)
+ggplot(kidney1, aes(x=Age, fill=sex1))+geom_density(alpha=0.5)
+
+#  Subset selections method One:Controlling the x/y limits of the diagram   
+#  Which countries are at the lower left quadrant?
+plot1
+plot1+ xlim(20,75)+ylim(100,200)+geom_point(size=3)
+
+
+#-----------------------------------------------------------------------
+# Part Three: boxplot and other
+#-----------------------------------------------------------------------------
+#  Box Plot & some variations:jitters plots, violin plot & girding  
+ggplot(kidney1, aes(Height))+geom_boxplot(fill="red")
+ggplot(kidney1, aes(Height,fill=sex1))+geom_boxplot()
+ggplot(data=kidney1, aes(Height,fill=sex1))+
+  geom_boxplot()+ coord_flip()+guides(fill=FALSE) #to remove legend
+plot2
+ggplot(data=kidney1, aes(Height,fill=sex1))+
+  geom_boxplot(outlier.size=5)
+ggplot(data=kidney, aes(Height,fill=sex1))+
+  geom_boxplot(outlier.size=1.2)->plot3
+plot3
+ggplot(data=kidney, aes( Height))+ 
+  geom_boxplot(color="dark red", fill="light green", alpha=0.5)
+plot4 
+ggplot(data=kidney1, aes(Age, Height,fill=sex1))+geom_violin()
+
+#----------------------------------------------------------------------
+##       PART Four: Bar plots
+#----------------------------------------------------------------------
+# Nominal(Qualitative) data with bar plots 
+ggplot(kidney1, aes(sex1)) +geom_bar(color="red", fill="green")
+ggplot(kidney1, aes(x = sex1, fill=sex1)) +geom_bar()
+ggplot(kidney, aes(x = sex1, fill=sex1)) +geom_bar(level=data("length"))+ 
+  theme(legend.position = "none")
+
+ggplot(kidney1, aes(x=Height, fill=sex1)) +
+  geom_bar(position="dodge") + labs(title="position=stack")

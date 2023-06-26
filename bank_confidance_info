@@ -1,0 +1,14 @@
+This is a survey data on 70 people on 7 variables
+var1: Respondent No.
+var2: Confidence Score for Bank
+var3: Sex
+var4: Marital Status
+var5: Income
+var6: Age
+var7: Education
+var8: Income_after_training
+Coding in variables
+var2: 1=Not confident at all, 2=slight confident, 3=Somewhat confident, 4=fairly confident, 5=completely confident
+var3: 1=Female, 2=Male
+var4: 1=Single, 2=Married
+var7: 1=illiterate, 2=school level, 3=bachelor, 4=masters, 5=above master

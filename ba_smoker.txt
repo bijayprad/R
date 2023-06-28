@@ -1,0 +1,101 @@
+Before	after
+Smoker	Smoker
+Non Smoker	Non Smoker
+Non Smoker	Non Smoker
+Non Smoker	Smoker
+Non Smoker	Smoker
+Smoker	Non Smoker
+Non Smoker	Non Smoker
+Smoker	Non Smoker
+Non Smoker	Smoker
+Non Smoker	Non Smoker
+Non Smoker	Non Smoker
+Non Smoker	Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Smoker	Smoker
+Non Smoker	Smoker
+Smoker	Non Smoker
+Smoker	Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Non Smoker	Non Smoker
+Non Smoker	Non Smoker
+Non Smoker	Non Smoker
+Non Smoker	Smoker
+Non Smoker	Smoker
+Smoker	Non Smoker
+Non Smoker	Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Smoker	Smoker
+Smoker	Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Non Smoker	Non Smoker
+Non Smoker	Smoker
+Smoker	Non Smoker
+Smoker	Smoker
+Non Smoker	Non Smoker
+Non Smoker	Non Smoker
+Non Smoker	Non Smoker
+Smoker	Smoker
+Non Smoker	Smoker
+Smoker	Smoker
+Non Smoker	Non Smoker
+Non Smoker	Smoker
+Non Smoker	Smoker
+Smoker	Non Smoker
+Smoker	Smoker
+Non Smoker	Non Smoker
+Smoker	Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Non Smoker	Non Smoker
+Non Smoker	Smoker
+Non Smoker	Non Smoker
+Non Smoker	Non Smoker
+Smoker	Non Smoker
+Non Smoker	Smoker
+Non Smoker	Smoker
+Non Smoker	Non Smoker
+Smoker	Non Smoker
+Smoker	Smoker
+Smoker	Smoker
+Non Smoker	Non Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Non Smoker	Non Smoker
+Smoker	Non Smoker
+Non Smoker	Smoker
+Non Smoker	Smoker
+Smoker	Smoker
+Non Smoker	Non Smoker
+Smoker	Smoker
+Non Smoker	Non Smoker
+Smoker	Smoker
+Smoker	Smoker
+Smoker	Smoker
+Smoker	Smoker
+Non Smoker	Non Smoker
+Non Smoker	Non Smoker
+Smoker	Non Smoker
+Smoker	Smoker
+Non Smoker	Smoker
+Smoker	Smoker
+Non Smoker	Non Smoker
+Non Smoker	Non Smoker
+Non Smoker	Non Smoker
+Non Smoker	Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Smoker	Non Smoker
+Non Smoker	Non Smoker
+Smoker	Non Smoker
+Smoker	Smoker
+Non Smoker	Smoker
+Smoker	Smoker
+Non Smoker	Smoker

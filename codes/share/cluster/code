@@ -11,3 +11,6 @@ clust_data <- scale(df[ , c("Gender", "Qualification", "Smoke", "Selfcon", "Abse
 dist_matrix <- dist(clust_data, method = "euclidean")
 hc <- hclust(dist_matrix, method = "ward.D2")
 plot(hc, labels = df$SN, main = "Hierarchical Clustering Dendrogram")
+
+clusters <- cutree(hc, k = 3) # number of cluster you want to make
+df$Cluster <- clusters

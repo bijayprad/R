@@ -1,0 +1,66 @@
+puru=read.csv("https://raw.githubusercontent.com/bijayprad/oth/refs/heads/main/puru.csv")
+
+
+library(lavaan)
+
+model <- '
+  # First-order measurement model
+  KA =~ KA1 + KA2 + KA3 + KA4 + KA5 + KA6
+  TS =~ TS1 + TS2 + TS3 + TS4 + TS5 + TS6
+  IS =~ IS1 + IS2 + IS3 + IS4 + IS5 + IS6
+  IP =~ IP1 + IP2 + IP3 + IP4 + IP5 + IP6
+  TP =~ TP1 + TP2 + TP3 + TP4 + TP5 + TP6
+
+  # Second-order factor
+  SF =~ KA + TS + IS
+
+  # Structural regression paths
+  IP ~ SF
+  TP ~ SF + IP
+'
+
+fit <- sem(model, data = puru, estimator = "MLR")  # use 'ordered = TRUE' if Likert
+summary(fit, fit.measures = TRUE, standardized = TRUE)
+
+library(semPlot)
+semPaths(fit,
+         what = "std",
+         layout = "tree2", 
+         edge.label.cex = 1.2,
+         sizeMan = 6,
+         sizeLat = 8,
+         residuals = FALSE,
+         intercepts = FALSE)
+
+fitMeasures(fit, c("chisq", "df", "pvalue", "cfi", "tli", "rmsea", "srmr"))
+modindices(fit, sort = TRUE, minimum.value = 10)
+
+###############################################################
+model <- '
+  # First-order factors
+  KA =~ KA1 + KA2 + KA3 + KA4 + KA5 + KA6
+  TS =~ TS1 + TS2 + TS3 + TS4 + TS5 + TS6
+  IS =~ IS1 + IS2 + IS3 + IS4 + IS5 + IS6
+  IP =~ IP1 + IP2 + IP3 + IP4 + IP5 + IP6
+  TP =~ TP1 + TP2 + TP3 + TP4 + TP5 + TP6
+
+  # Second-order factor
+  SF =~ KA + TS + IS
+
+  # Structural paths
+  IP ~ SF
+  TP ~ SF + IP
+'
+
+fit <- sem(model, data = puru, std.lv = TRUE)
+
+summary(fit, standardized = TRUE, fit.measures = TRUE)
+
+semPaths(fit, 
+         whatLabels = "std", 
+         style = "lisrel", 
+         layout = "tree2", 
+         edge.label.cex = 0.9,
+         edge.color = "darkgreen",
+         fade = FALSE)
+

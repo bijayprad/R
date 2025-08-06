@@ -7,3 +7,7 @@ df <- data.frame(
   Absence = c(3,0,21,14,9,5,8,12,8,30,0,12,4,0,13,3,0,0,0,21),
   Subtest = c(30,29,23,14,16,20,22,12,22,18,23,22,24,20,15,26,15,19,20,13)
 )
+clust_data <- scale(df[ , c("Gender", "Qualification", "Smoke", "Selfcon", "Absence", "Subtest")])
+dist_matrix <- dist(clust_data, method = "euclidean")
+hc <- hclust(dist_matrix, method = "ward.D2")
+plot(hc, labels = df$SN, main = "Hierarchical Clustering Dendrogram")

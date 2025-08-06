@@ -22,3 +22,7 @@ library(psych)
 r=cor(data_matrix)
 principal(r,2)
 
+eigen(r)$values
+KMO(r)
+cortest.bartlett (r,6)
+
